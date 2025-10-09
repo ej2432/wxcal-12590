@@ -51,8 +51,8 @@ type CalendarForecastDay struct {
 
 // SummaryLine returns a brief, 1 line summary of the day's forecast.
 func (d CalendarForecastDay) SummaryLine() string {
-	daySummary := d.DaytimePeriod.SummaryLine()
 	nightSummary := d.NighttimePeriod.SummaryLine()
+	daySummary := d.DaytimePeriod.SummaryLine()
 
 	if len(daySummary) > 0 && len(nightSummary) > 0 {
 		return fmt.Sprintf("%s | %s", daySummary, nightSummary)
