@@ -6,6 +6,9 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-calendar:
     runs-on: ubuntu-latest
@@ -30,4 +33,7 @@ jobs:
           git config --global user.name 'Weather Bot'
           git config --global user.email 'bot@github.com'
           git add weather.ics
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update weather calendar" && git push)
+          if ! git diff --quiet --cached; then
+            git commit -m "Update weather calendar"
+            git push
+          fi
