@@ -9,11 +9,11 @@ on:
 jobs:
   update-calendar:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-      
+
       - name: Generate weather calendar
         run: |
           docker run --rm \
@@ -24,7 +24,7 @@ jobs:
             -lon -73.888844 \
             -calDomain github.com \
             -icalFile "weather.ics"
-      
+
       - name: Commit and push if changed
         run: |
           git config --global user.name 'Weather Bot'
