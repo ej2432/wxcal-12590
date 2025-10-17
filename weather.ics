@@ -13,23 +13,23 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20251017-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251017T125013Z
+DTSTAMP:20251017T142338Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251017
 DTEND:20251017
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:60ºF Frost; Sunny | 35ºF Mostly Clear; Frost
-DESCRIPTION:Areas of frost before 9am. Sunny, with a high near 60. North wi
- nd 6 to 10 mph.\n\nOvernight: Areas of frost after 2am. Mostly clear, with
-  a low around 35. North wind 1 to 6 mph.\n\nSunrise: 7:10:12 AM\nSunset: 6
- :10:45 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.php?te
- xtField1=41.60&textField2=-73.89
+SUMMARY:60ºF Sunny | 35ºF Mostly Clear; Frost
+DESCRIPTION:Sunny, with a high near 60. North wind 7 to 10 mph.\n\nOvernigh
+ t: Areas of frost after 2am. Mostly clear, with a low around 35. North win
+ d 1 to 6 mph.\n\nSunrise: 7:10:12 AM\nSunset: 6:10:45 PM\n\nForecast Detai
+ l: https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
+ 73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20251018-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251017T125013Z
+DTSTAMP:20251017T142338Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251018
 DTEND:20251018
@@ -45,7 +45,7 @@ DESCRIPTION:Areas of frost before 9am. Mostly sunny, with a high near 64. W
 END:VEVENT
 BEGIN:VEVENT
 UID:20251019-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251017T125013Z
+DTSTAMP:20251017T142338Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251019
 DTEND:20251019
@@ -63,7 +63,7 @@ DESCRIPTION:A slight chance of rain showers after 2pm. Mostly sunny, with a
 END:VEVENT
 BEGIN:VEVENT
 UID:20251020-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251017T125013Z
+DTSTAMP:20251017T142338Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251020
 DTEND:20251020
@@ -79,7 +79,7 @@ DESCRIPTION:Rain showers. Partly sunny, with a high near 64. Chance of prec
 END:VEVENT
 BEGIN:VEVENT
 UID:20251021-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251017T125013Z
+DTSTAMP:20251017T142338Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251021
 DTEND:20251021
@@ -96,7 +96,7 @@ DESCRIPTION:A slight chance of rain showers after 2pm. Mostly sunny, with a
 END:VEVENT
 BEGIN:VEVENT
 UID:20251022-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251017T125013Z
+DTSTAMP:20251017T142338Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251022
 DTEND:20251022
@@ -113,7 +113,7 @@ DESCRIPTION:A slight chance of rain showers. Mostly sunny, with a high near
 END:VEVENT
 BEGIN:VEVENT
 UID:20251023-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251017T125013Z
+DTSTAMP:20251017T142338Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251023
 DTEND:20251023
