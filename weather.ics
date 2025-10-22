@@ -13,45 +13,39 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20251022-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251022T142605Z
+DTSTAMP:20251022T163234Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251022
 DTEND:20251022
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:63ºF Chance Rain Showers; Mostly Sunny | 41ºF Mostly Clear
-DESCRIPTION:A slight chance of rain showers before 11am. Mostly sunny, with
-  a high near 63. Southwest wind around 13 mph, with gusts as high as 23 mp
- h. Chance of precipitation is 20%. New rainfall amounts less than a tenth 
- of an inch possible.\n\nOvernight: Mostly clear, with a low around 41. Sou
- thwest wind 6 to 10 mph.\n\nSunrise: 7:15:57 AM\nSunset: 6:03:18 PM\n\nFor
- ecast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&t
- extField2=-73.89
+SUMMARY:61ºF Mostly Sunny | 42ºF Partly Cloudy
+DESCRIPTION:Mostly sunny, with a high near 61. West wind around 12 mph, wit
+ h gusts as high as 22 mph.\n\nOvernight: Partly cloudy, with a low around 
+ 42. Southwest wind 6 to 9 mph.\n\nSunrise: 7:15:57 AM\nSunset: 6:03:18 PM\
+ n\nForecast Detail: https://forecast.weather.gov/MapClick.php?textField1=4
+ 1.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20251023-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251022T142605Z
+DTSTAMP:20251022T163234Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251023
 DTEND:20251023
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:59ºF Mostly Sunny; Chance Rain Showers | 38ºF Chance Rain Showers
- ; Partly Cloudy
-DESCRIPTION:A slight chance of rain showers after 2pm. Mostly sunny, with a
-  high near 59. Southwest wind 6 to 10 mph. Chance of precipitation is 20%.
-  New rainfall amounts less than a tenth of an inch possible.\n\nOvernight:
-  A slight chance of rain showers before 8pm. Partly cloudy, with a low aro
- und 38. West wind 2 to 7 mph. Chance of precipitation is 20%. New rainfall
-  amounts less than a tenth of an inch possible.\n\nSunrise: 7:17:06 AM\nSu
- nset: 6:01:51 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick
- .php?textField1=41.60&textField2=-73.89
+SUMMARY:58ºF Mostly Sunny | 38ºF Chance Rain Showers; Mostly Clear
+DESCRIPTION:Mostly sunny, with a high near 58. Southwest wind 6 to 10 mph.\
+ n\nOvernight: A slight chance of rain showers between 7pm and 8pm. Mostly 
+ clear, with a low around 38. West wind 2 to 7 mph. Chance of precipitation
+  is 20%.\n\nSunrise: 7:17:06 AM\nSunset: 6:01:51 PM\n\nForecast Detail: ht
+ tps://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20251024-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251022T142605Z
+DTSTAMP:20251022T163234Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251024
 DTEND:20251024
@@ -66,7 +60,7 @@ DESCRIPTION:Mostly sunny, with a high near 59. West wind 2 to 9 mph.\n\nOve
 END:VEVENT
 BEGIN:VEVENT
 UID:20251025-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251022T142605Z
+DTSTAMP:20251022T163234Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251025
 DTEND:20251025
@@ -81,7 +75,7 @@ DESCRIPTION:Mostly sunny, with a high near 56.\n\nOvernight: Partly cloudy,
 END:VEVENT
 BEGIN:VEVENT
 UID:20251026-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251022T142605Z
+DTSTAMP:20251022T163234Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251026
 DTEND:20251026
@@ -96,7 +90,7 @@ DESCRIPTION:Mostly sunny, with a high near 56.\n\nOvernight: Partly cloudy,
 END:VEVENT
 BEGIN:VEVENT
 UID:20251027-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251022T142605Z
+DTSTAMP:20251022T163234Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251027
 DTEND:20251027
@@ -111,7 +105,7 @@ DESCRIPTION:Sunny, with a high near 56.\n\nOvernight: Mostly clear, with a
 END:VEVENT
 BEGIN:VEVENT
 UID:20251028-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251022T142605Z
+DTSTAMP:20251022T163234Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251028
 DTEND:20251028
