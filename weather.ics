@@ -13,7 +13,7 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20251111-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251111T102752Z
+DTSTAMP:20251111T125132Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251111
 DTEND:20251111
@@ -22,7 +22,7 @@ URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
 SUMMARY:40ºF Chance Snow Showers | 31ºF Mostly Cloudy
 DESCRIPTION:A chance of snow showers between 10am and 4pm. Mostly cloudy, w
- ith a high near 40. West wind 13 to 18 mph, with gusts as high as 38 mph. 
+ ith a high near 40. West wind 14 to 18 mph, with gusts as high as 38 mph. 
  Chance of precipitation is 30%.\n\nOvernight: Mostly cloudy, with a low ar
  ound 31. Southwest wind 8 to 14 mph, with gusts as high as 29 mph.\n\nSunr
  ise: 6:39:58 AM\nSunset: 4:38:44 PM\n\nForecast Detail: https://forecast.w
@@ -30,7 +30,7 @@ DESCRIPTION:A chance of snow showers between 10am and 4pm. Mostly cloudy, w
 END:VEVENT
 BEGIN:VEVENT
 UID:20251112-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251111T102752Z
+DTSTAMP:20251111T125132Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251112
 DTEND:20251112
@@ -45,7 +45,7 @@ DESCRIPTION:Mostly cloudy, with a high near 46. Southwest wind 8 to 12 mph.
 END:VEVENT
 BEGIN:VEVENT
 UID:20251113-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251111T102752Z
+DTSTAMP:20251111T125132Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251113
 DTEND:20251113
@@ -53,14 +53,14 @@ LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
 SUMMARY:50ºF Mostly Sunny | 32ºF Partly Cloudy
-DESCRIPTION:Mostly sunny, with a high near 50.\n\nOvernight: Partly cloudy,
-  with a low around 32.\n\nSunrise: 6:42:24 AM\nSunset: 4:36:52 PM\n\nForec
- ast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&tex
- tField2=-73.89
+DESCRIPTION:Mostly sunny, with a high near 50. West wind 6 to 13 mph, with 
+ gusts as high as 23 mph.\n\nOvernight: Partly cloudy, with a low around 32
+ .\n\nSunrise: 6:42:24 AM\nSunset: 4:36:52 PM\n\nForecast Detail: https://f
+ orecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20251114-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251111T102752Z
+DTSTAMP:20251111T125132Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251114
 DTEND:20251114
@@ -75,7 +75,7 @@ DESCRIPTION:Mostly sunny, with a high near 48.\n\nOvernight: Mostly clear,
 END:VEVENT
 BEGIN:VEVENT
 UID:20251115-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251111T102752Z
+DTSTAMP:20251111T125132Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251115
 DTEND:20251115
@@ -91,7 +91,7 @@ DESCRIPTION:Mostly sunny, with a high near 45.\n\nOvernight: A chance of sn
 END:VEVENT
 BEGIN:VEVENT
 UID:20251116-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251111T102752Z
+DTSTAMP:20251111T125132Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251116
 DTEND:20251116
@@ -109,16 +109,18 @@ DESCRIPTION:A chance of snow showers before 7am, then a chance of rain show
 END:VEVENT
 BEGIN:VEVENT
 UID:20251117-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251111T102752Z
+DTSTAMP:20251111T125132Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251117
 DTEND:20251117
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:51ºF Chance Rain Showers
-DESCRIPTION:A chance of rain showers. Partly sunny, with a high near 51.\n\
- nSunrise: 6:47:14 AM\nSunset: 4:33:30 PM\n\nForecast Detail: https://forec
- ast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+SUMMARY:51ºF Chance Rain Showers | 33ºF Chance Rain Showers
+DESCRIPTION:A chance of rain showers. Partly sunny, with a high near 51. Ch
+ ance of precipitation is 30%.\n\nOvernight: A chance of rain showers. Most
+ ly cloudy, with a low around 33.\n\nSunrise: 6:47:14 AM\nSunset: 4:33:30 P
+ M\n\nForecast Detail: https://forecast.weather.gov/MapClick.php?textField1
+ =41.60&textField2=-73.89
 END:VEVENT
 END:VCALENDAR
