@@ -13,23 +13,22 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20251111-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251111T222321Z
+DTSTAMP:20251112T015551Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251111
 DTEND:20251111
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:40ºF Partly Sunny | 31ºF Mostly Cloudy
-DESCRIPTION:Partly sunny, with a high near 40. West wind around 13 mph, wit
- h gusts as high as 31 mph.\n\nOvernight: Mostly cloudy, with a low around 
- 31. Southwest wind 7 to 12 mph, with gusts as high as 28 mph.\n\nSunrise: 
- 6:39:58 AM\nSunset: 4:38:44 PM\n\nForecast Detail: https://forecast.weathe
- r.gov/MapClick.php?textField1=41.60&textField2=-73.89
+SUMMARY:Tonight: 31ºF Mostly Cloudy
+DESCRIPTION:Tonight: Mostly cloudy, with a low around 31. Southwest wind ar
+ ound 9 mph, with gusts as high as 23 mph.\n\nSunrise: 6:39:58 AM\nSunset: 
+ 4:38:44 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.php?t
+ extField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20251112-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251111T222321Z
+DTSTAMP:20251112T015551Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251112
 DTEND:20251112
@@ -45,7 +44,7 @@ DESCRIPTION:A slight chance of snow showers before 7am. Mostly cloudy, with
 END:VEVENT
 BEGIN:VEVENT
 UID:20251113-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251111T222321Z
+DTSTAMP:20251112T015551Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251113
 DTEND:20251113
@@ -55,12 +54,13 @@ URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
 SUMMARY:51ºF Mostly Sunny | 32ºF Partly Cloudy
 DESCRIPTION:Mostly sunny, with a high near 51. West wind 6 to 13 mph, with 
  gusts as high as 23 mph.\n\nOvernight: Partly cloudy, with a low around 32
- .\n\nSunrise: 6:42:24 AM\nSunset: 4:36:52 PM\n\nForecast Detail: https://f
- orecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+ . West wind 3 to 7 mph.\n\nSunrise: 6:42:24 AM\nSunset: 4:36:52 PM\n\nFore
+ cast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&te
+ xtField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20251114-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251111T222321Z
+DTSTAMP:20251112T015551Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251114
 DTEND:20251114
@@ -75,7 +75,7 @@ DESCRIPTION:Partly sunny, with a high near 48.\n\nOvernight: Partly cloudy,
 END:VEVENT
 BEGIN:VEVENT
 UID:20251115-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251111T222321Z
+DTSTAMP:20251112T015551Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251115
 DTEND:20251115
@@ -90,7 +90,7 @@ DESCRIPTION:Mostly sunny, with a high near 46.\n\nOvernight: A chance of ra
 END:VEVENT
 BEGIN:VEVENT
 UID:20251116-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251111T222321Z
+DTSTAMP:20251112T015551Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251116
 DTEND:20251116
@@ -106,7 +106,7 @@ DESCRIPTION:A chance of rain. Mostly cloudy, with a high near 53. Chance of
 END:VEVENT
 BEGIN:VEVENT
 UID:20251117-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251111T222321Z
+DTSTAMP:20251112T015551Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251117
 DTEND:20251117
@@ -119,5 +119,19 @@ DESCRIPTION:A slight chance of rain before 7am. Mostly sunny, with a high n
  oudy, with a low around 31.\n\nSunrise: 6:47:14 AM\nSunset: 4:33:30 PM\n\n
  Forecast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.6
  0&textField2=-73.89
+END:VEVENT
+BEGIN:VEVENT
+UID:20251118-wappingers-falls-ny{41.60,-73.89}@github.com
+DTSTAMP:20251112T015551Z
+LAST-MODIFIED:00010101T000000Z
+DTSTART:20251118
+DTEND:20251118
+LOCATION:Wappingers Falls, NY
+URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
+ 73.89
+SUMMARY:48ºF Chance Rain Showers
+DESCRIPTION:A slight chance of rain showers. Mostly sunny, with a high near
+  48.\n\nSunrise: 6:48:25 AM\nSunset: 4:32:44 PM\n\nForecast Detail: https:
+ //forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 END:VCALENDAR
