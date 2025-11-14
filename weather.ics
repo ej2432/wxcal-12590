@@ -12,126 +12,111 @@ METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
-UID:20251113-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251114T042842Z
-LAST-MODIFIED:00010101T000000Z
-DTSTART:20251113
-DTEND:20251113
-LOCATION:Wappingers Falls, NY
-URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
- 73.89
-SUMMARY:Tonight: 33ºF Partly Cloudy
-DESCRIPTION:Tonight: Partly cloudy, with a low around 33. West wind around 
- 6 mph.\n\nSunrise: 6:42:24 AM\nSunset: 4:36:52 PM\n\nForecast Detail: http
- s://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
-END:VEVENT
-BEGIN:VEVENT
 UID:20251114-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251114T042842Z
+DTSTAMP:20251114T063658Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251114
 DTEND:20251114
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:48ºF Partly Sunny | 26ºF Partly Cloudy
-DESCRIPTION:Partly sunny, with a high near 48. Northwest wind 5 to 9 mph.\n
- \nOvernight: Partly cloudy, with a low around 26. Northwest wind around 5 
- mph.\n\nSunrise: 6:43:37 AM\nSunset: 4:35:58 PM\n\nForecast Detail: https:
- //forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+SUMMARY:48ºF Partly Sunny | 28ºF Partly Cloudy
+DESCRIPTION:Partly sunny, with a high near 48. West wind 3 to 10 mph.\n\nOv
+ ernight: Partly cloudy, with a low around 28. Northwest wind 1 to 5 mph.\n
+ \nSunrise: 6:43:37 AM\nSunset: 4:35:58 PM\n\nForecast Detail: https://fore
+ cast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20251115-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251114T042842Z
+DTSTAMP:20251114T063658Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251115
 DTEND:20251115
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:48ºF Partly Sunny | 39ºF Light Rain
-DESCRIPTION:Partly sunny, with a high near 48. West wind 1 to 5 mph.\n\nOve
- rnight: Rain after 7pm. Cloudy, with a low around 39. Southwest wind aroun
- d 6 mph. Chance of precipitation is 90%. New rainfall amounts between a te
- nth and quarter of an inch possible.\n\nSunrise: 6:44:50 AM\nSunset: 4:35:
- 07 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.php?textFi
- eld1=41.60&textField2=-73.89
+SUMMARY:50ºF Mostly Cloudy; Chance Light Rain | 41ºF Light Rain
+DESCRIPTION:A slight chance of rain after 1pm. Mostly cloudy, with a high n
+ ear 50. Southwest wind 1 to 6 mph. Chance of precipitation is 20%.\n\nOver
+ night: Rain. Cloudy, with a low around 41. Southwest wind around 7 mph. Ch
+ ance of precipitation is 90%. New rainfall amounts between a tenth and qua
+ rter of an inch possible.\n\nSunrise: 6:44:50 AM\nSunset: 4:35:07 PM\n\nFo
+ recast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&
+ textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20251116-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251114T042842Z
+DTSTAMP:20251114T063658Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251116
 DTEND:20251116
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:54ºF Light Rain Likely; Chance Rain Showers | 33ºF Partly Cloudy
-DESCRIPTION:Rain likely before 7am, then a chance of rain showers between 7
- am and 1pm. Partly sunny, with a high near 54. Chance of precipitation is 
- 70%. New rainfall amounts less than a tenth of an inch possible.\n\nOverni
- ght: Partly cloudy, with a low around 33.\n\nSunrise: 6:46:02 AM\nSunset: 
- 4:34:17 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.php?t
- extField1=41.60&textField2=-73.89
+SUMMARY:52ºF Chance Light Rain; Partly Sunny | 32ºF Partly Cloudy
+DESCRIPTION:A chance of rain before 7am. Partly sunny, with a high near 52.
+  Chance of precipitation is 50%. New rainfall amounts less than a tenth of
+  an inch possible.\n\nOvernight: Partly cloudy, with a low around 32.\n\nS
+ unrise: 6:46:02 AM\nSunset: 4:34:17 PM\n\nForecast Detail: https://forecas
+ t.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20251117-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251114T042842Z
+DTSTAMP:20251114T063658Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251117
 DTEND:20251117
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:46ºF Partly Sunny | 31ºF Partly Cloudy
-DESCRIPTION:Partly sunny, with a high near 46.\n\nOvernight: Partly cloudy,
+SUMMARY:43ºF Mostly Sunny | 31ºF Partly Cloudy
+DESCRIPTION:Mostly sunny, with a high near 43.\n\nOvernight: Partly cloudy,
   with a low around 31.\n\nSunrise: 6:47:14 AM\nSunset: 4:33:30 PM\n\nForec
  ast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&tex
  tField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20251118-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251114T042842Z
+DTSTAMP:20251114T063658Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251118
 DTEND:20251118
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:47ºF Partly Sunny | 28ºF Partly Cloudy
-DESCRIPTION:Partly sunny, with a high near 47.\n\nOvernight: Partly cloudy,
+SUMMARY:46ºF Mostly Sunny | 28ºF Partly Cloudy
+DESCRIPTION:Mostly sunny, with a high near 46.\n\nOvernight: Partly cloudy,
   with a low around 28.\n\nSunrise: 6:48:25 AM\nSunset: 4:32:44 PM\n\nForec
  ast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&tex
  tField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20251119-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251114T042842Z
+DTSTAMP:20251114T063658Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251119
 DTEND:20251119
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:48ºF Mostly Sunny | 29ºF Mostly Cloudy; Chance Light Snow
-DESCRIPTION:Mostly sunny, with a high near 48.\n\nOvernight: A slight chanc
- e of snow after 1am. Mostly cloudy, with a low around 29.\n\nSunrise: 6:49
- :37 AM\nSunset: 4:32:01 PM\n\nForecast Detail: https://forecast.weather.go
- v/MapClick.php?textField1=41.60&textField2=-73.89
+SUMMARY:48ºF Mostly Sunny | 26ºF Partly Cloudy
+DESCRIPTION:Mostly sunny, with a high near 48.\n\nOvernight: Partly cloudy,
+  with a low around 26.\n\nSunrise: 6:49:37 AM\nSunset: 4:32:01 PM\n\nForec
+ ast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&tex
+ tField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20251120-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251114T042842Z
+DTSTAMP:20251114T063658Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251120
 DTEND:20251120
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:49ºF Chance Light Snow; Chance Light Rain
-DESCRIPTION:A slight chance of snow before 7am, then a slight chance of rai
- n. Partly sunny, with a high near 49.\n\nSunrise: 6:50:48 AM\nSunset: 4:31
- :20 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.php?textF
- ield1=41.60&textField2=-73.89
+SUMMARY:47ºF Mostly Sunny
+DESCRIPTION:Mostly sunny, with a high near 47.\n\nSunrise: 6:50:48 AM\nSuns
+ et: 4:31:20 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.p
+ hp?textField1=41.60&textField2=-73.89
 END:VEVENT
 END:VCALENDAR
