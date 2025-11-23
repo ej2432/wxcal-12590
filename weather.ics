@@ -13,22 +13,22 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20251123-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251123T142036Z
+DTSTAMP:20251123T162810Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251123
 DTEND:20251123
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:46ºF Mostly Cloudy | 33ºF Partly Cloudy
-DESCRIPTION:Mostly cloudy, with a high near 46. Southwest wind 2 to 7 mph.\
- n\nOvernight: Partly cloudy, with a low around 33. West wind around 6 mph.
- \n\nSunrise: 6:54:18 AM\nSunset: 4:29:27 PM\n\nForecast Detail: https://fo
- recast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+SUMMARY:46ºF Partly Sunny | 33ºF Partly Cloudy
+DESCRIPTION:Partly sunny, with a high near 46. Southwest wind 1 to 7 mph.\n
+ \nOvernight: Partly cloudy, with a low around 33. West wind around 6 mph.\
+ n\nSunrise: 6:54:18 AM\nSunset: 4:29:27 PM\n\nForecast Detail: https://for
+ ecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20251124-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251123T142036Z
+DTSTAMP:20251123T162810Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251124
 DTEND:20251124
@@ -44,7 +44,7 @@ DESCRIPTION:Sunny. High near 50, with temperatures falling to around 44 in
 END:VEVENT
 BEGIN:VEVENT
 UID:20251125-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251123T142036Z
+DTSTAMP:20251123T162810Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251125
 DTEND:20251125
@@ -62,7 +62,7 @@ DESCRIPTION:A chance of rain showers after 1pm. Cloudy, with a high near 51
 END:VEVENT
 BEGIN:VEVENT
 UID:20251126-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251123T142036Z
+DTSTAMP:20251123T162810Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251126
 DTEND:20251126
@@ -78,7 +78,7 @@ DESCRIPTION:A slight chance of rain showers. Mostly cloudy, with a high nea
 END:VEVENT
 BEGIN:VEVENT
 UID:20251127-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251123T142036Z
+DTSTAMP:20251123T162810Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251127
 DTEND:20251127
@@ -93,7 +93,7 @@ DESCRIPTION:Partly sunny, with a high near 45.\n\nOvernight: Partly cloudy,
 END:VEVENT
 BEGIN:VEVENT
 UID:20251128-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251123T142036Z
+DTSTAMP:20251123T162810Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251128
 DTEND:20251128
@@ -108,7 +108,7 @@ DESCRIPTION:Mostly sunny, with a high near 42.\n\nOvernight: Partly cloudy,
 END:VEVENT
 BEGIN:VEVENT
 UID:20251129-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251123T142036Z
+DTSTAMP:20251123T162810Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251129
 DTEND:20251129
