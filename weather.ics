@@ -13,7 +13,7 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20251126-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251126T183340Z
+DTSTAMP:20251126T202630Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251126
 DTEND:20251126
@@ -22,17 +22,17 @@ URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
 SUMMARY:60ºF Chance Rain Showers | 34ºF Chance Rain Showers; Mostly Cloud
  y
-DESCRIPTION:A chance of rain showers after 3pm. Mostly cloudy, with a high 
- near 60. South wind around 6 mph. Chance of precipitation is 40%.\n\nOvern
- ight: A chance of rain showers before 10pm. Mostly cloudy, with a low arou
- nd 34. Southwest wind 5 to 10 mph, with gusts as high as 25 mph. Chance of
-  precipitation is 40%. New rainfall amounts less than a tenth of an inch p
- ossible.\n\nSunrise: 6:57:43 AM\nSunset: 4:27:56 PM\n\nForecast Detail: ht
- tps://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+DESCRIPTION:A chance of rain showers. Mostly cloudy, with a high near 60. S
+ outh wind around 5 mph. Chance of precipitation is 40%.\n\nOvernight: A ch
+ ance of rain showers before 10pm. Mostly cloudy, with a low around 34. Sou
+ thwest wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipita
+ tion is 40%. New rainfall amounts less than a tenth of an inch possible.\n
+ \nSunrise: 6:57:43 AM\nSunset: 4:27:56 PM\n\nForecast Detail: https://fore
+ cast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20251127-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251126T183340Z
+DTSTAMP:20251126T202630Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251127
 DTEND:20251127
@@ -48,7 +48,7 @@ DESCRIPTION:Partly sunny, with a high near 42. Southwest wind 9 to 13 mph,
 END:VEVENT
 BEGIN:VEVENT
 UID:20251128-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251126T183340Z
+DTSTAMP:20251126T202630Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251128
 DTEND:20251128
@@ -63,7 +63,7 @@ DESCRIPTION:Partly sunny, with a high near 40. West wind 10 to 15 mph, with
 END:VEVENT
 BEGIN:VEVENT
 UID:20251129-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251126T183340Z
+DTSTAMP:20251126T202630Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251129
 DTEND:20251129
@@ -78,7 +78,7 @@ DESCRIPTION:Sunny, with a high near 41.\n\nOvernight: Mostly cloudy, with a
 END:VEVENT
 BEGIN:VEVENT
 UID:20251130-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251126T183340Z
+DTSTAMP:20251126T202630Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251130
 DTEND:20251130
@@ -94,7 +94,7 @@ DESCRIPTION:A chance of rain showers after 1pm. Cloudy, with a high near 46
 END:VEVENT
 BEGIN:VEVENT
 UID:20251201-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251126T183340Z
+DTSTAMP:20251126T202630Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251201
 DTEND:20251201
@@ -111,7 +111,7 @@ DESCRIPTION:A slight chance of rain showers before 7am. Mostly cloudy, with
 END:VEVENT
 BEGIN:VEVENT
 UID:20251202-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251126T183340Z
+DTSTAMP:20251126T202630Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251202
 DTEND:20251202
