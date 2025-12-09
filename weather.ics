@@ -13,22 +13,21 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20251208-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251208T222438Z
+DTSTAMP:20251209T015944Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251208
 DTEND:20251208
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:22ºF Partly Sunny | 4ºF Partly Cloudy
-DESCRIPTION:Partly sunny, with a high near 22. North wind around 5 mph.\n\n
- Overnight: Partly cloudy, with a low around 4. North wind around 2 mph.\n\
- nSunrise: 7:09:53 AM\nSunset: 4:25:13 PM\n\nForecast Detail: https://forec
- ast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+SUMMARY:Tonight: 4ºF Partly Cloudy
+DESCRIPTION:Tonight: Partly cloudy, with a low around 4. North wind around 
+ 2 mph.\n\nSunrise: 7:09:53 AM\nSunset: 4:25:13 PM\n\nForecast Detail: http
+ s://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20251209-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251208T222438Z
+DTSTAMP:20251209T015944Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251209
 DTEND:20251209
@@ -43,7 +42,7 @@ DESCRIPTION:Mostly sunny, with a high near 30. South wind 0 to 6 mph.\n\nOv
 END:VEVENT
 BEGIN:VEVENT
 UID:20251210-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251208T222438Z
+DTSTAMP:20251209T015944Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251210
 DTEND:20251210
@@ -56,14 +55,14 @@ DESCRIPTION:A chance of snow between 7am and 10am, then rain and snow. Most
  ation is 80%. New snow accumulation of less than half an inch possible.\n\
  nOvernight: Rain before 7pm, then a chance of rain showers between 7pm and
   10pm, then a chance of rain and snow showers between 10pm and 1am. Mostly
-  cloudy, with a low around 29. Chance of precipitation is 80%. New rainfal
- l amounts less than a tenth of an inch possible.\n\nSunrise: 7:11:37 AM\nS
- unset: 4:25:20 PM\n\nForecast Detail: https://forecast.weather.gov/MapClic
- k.php?textField1=41.60&textField2=-73.89
+  cloudy, with a low around 29. Southwest wind 6 to 9 mph. Chance of precip
+ itation is 80%. New rainfall amounts less than a tenth of an inch possible
+ .\n\nSunrise: 7:11:37 AM\nSunset: 4:25:20 PM\n\nForecast Detail: https://f
+ orecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20251211-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251208T222438Z
+DTSTAMP:20251209T015944Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251211
 DTEND:20251211
@@ -78,7 +77,7 @@ DESCRIPTION:Mostly sunny, with a high near 37.\n\nOvernight: Partly cloudy,
 END:VEVENT
 BEGIN:VEVENT
 UID:20251212-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251208T222438Z
+DTSTAMP:20251209T015944Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251212
 DTEND:20251212
@@ -93,7 +92,7 @@ DESCRIPTION:Mostly sunny, with a high near 34.\n\nOvernight: A chance of sn
 END:VEVENT
 BEGIN:VEVENT
 UID:20251213-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251208T222438Z
+DTSTAMP:20251209T015944Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251213
 DTEND:20251213
@@ -109,7 +108,7 @@ DESCRIPTION:A chance of snow. Partly sunny, with a high near 33. Chance of
 END:VEVENT
 BEGIN:VEVENT
 UID:20251214-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251208T222438Z
+DTSTAMP:20251209T015944Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251214
 DTEND:20251214
@@ -121,5 +120,19 @@ DESCRIPTION:Mostly sunny, with a high near 29.\n\nOvernight: Partly cloudy,
   with a low around 12.\n\nSunrise: 7:14:45 AM\nSunset: 4:25:59 PM\n\nForec
  ast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&tex
  tField2=-73.89
+END:VEVENT
+BEGIN:VEVENT
+UID:20251215-wappingers-falls-ny{41.60,-73.89}@github.com
+DTSTAMP:20251209T015944Z
+LAST-MODIFIED:00010101T000000Z
+DTSTART:20251215
+DTEND:20251215
+LOCATION:Wappingers Falls, NY
+URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
+ 73.89
+SUMMARY:28ºF Mostly Sunny
+DESCRIPTION:Mostly sunny, with a high near 28.\n\nSunrise: 7:15:28 AM\nSuns
+ et: 4:26:15 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.p
+ hp?textField1=41.60&textField2=-73.89
 END:VEVENT
 END:VCALENDAR
