@@ -13,27 +13,27 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20251210-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251210T203059Z
+DTSTAMP:20251210T222500Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251210
 DTEND:20251210
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:38ºF Light Snow | 25ºF Chance Light Snow; Mostly Cloudy
-DESCRIPTION:Snow. Cloudy, with a high near 38. South wind around 10 mph. Ch
- ance of precipitation is 90%. New rainfall amounts between a tenth and qua
- rter of an inch possible.\n\nOvernight: A chance of snow before 7pm, then 
- a chance of rain and snow between 7pm and 11pm. Mostly cloudy, with a low 
- around 25. Southwest wind around 10 mph, with gusts as high as 22 mph. Cha
- nce of precipitation is 50%. New rainfall amounts between a tenth and quar
- ter of an inch possible.\n\nSunrise: 7:11:37 AM\nSunset: 4:25:20 PM\n\nFor
- ecast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&t
- extField2=-73.89
+SUMMARY:38ºF Light Snow Likely | 25ºF Chance Light Snow; Mostly Cloudy
+DESCRIPTION:Snow likely. Cloudy, with a high near 38. South wind around 9 m
+ ph. Chance of precipitation is 70%. New rainfall amounts between a tenth a
+ nd quarter of an inch possible.\n\nOvernight: A chance of snow before 7pm,
+  then a chance of rain and snow between 7pm and 11pm. Mostly cloudy, with 
+ a low around 25. Southwest wind around 10 mph, with gusts as high as 22 mp
+ h. Chance of precipitation is 50%. New rainfall amounts between a tenth an
+ d quarter of an inch possible.\n\nSunrise: 7:11:37 AM\nSunset: 4:25:20 PM\
+ n\nForecast Detail: https://forecast.weather.gov/MapClick.php?textField1=4
+ 1.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20251211-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251210T203059Z
+DTSTAMP:20251210T222500Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251211
 DTEND:20251211
@@ -49,7 +49,7 @@ DESCRIPTION:Mostly sunny, with a high near 32. West wind 12 to 15 mph, with
 END:VEVENT
 BEGIN:VEVENT
 UID:20251212-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251210T203059Z
+DTSTAMP:20251210T222500Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251212
 DTEND:20251212
@@ -64,7 +64,7 @@ DESCRIPTION:Mostly sunny, with a high near 34. West wind 6 to 10 mph.\n\nOv
 END:VEVENT
 BEGIN:VEVENT
 UID:20251213-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251210T203059Z
+DTSTAMP:20251210T222500Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251213
 DTEND:20251213
@@ -79,7 +79,7 @@ DESCRIPTION:Partly sunny, with a high near 36.\n\nOvernight: A chance of sn
 END:VEVENT
 BEGIN:VEVENT
 UID:20251214-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251210T203059Z
+DTSTAMP:20251210T222500Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251214
 DTEND:20251214
@@ -95,7 +95,7 @@ DESCRIPTION:A chance of snow before 1pm. Partly sunny, with a high near 30.
 END:VEVENT
 BEGIN:VEVENT
 UID:20251215-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251210T203059Z
+DTSTAMP:20251210T222500Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251215
 DTEND:20251215
@@ -110,7 +110,7 @@ DESCRIPTION:Mostly sunny, with a high near 29.\n\nOvernight: Mostly cloudy,
 END:VEVENT
 BEGIN:VEVENT
 UID:20251216-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251210T203059Z
+DTSTAMP:20251210T222500Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251216
 DTEND:20251216
