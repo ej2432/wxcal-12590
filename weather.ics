@@ -13,7 +13,7 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20251213-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251213T183256Z
+DTSTAMP:20251213T202643Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251213
 DTEND:20251213
@@ -21,35 +21,34 @@ LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
 SUMMARY:37ºF Mostly Cloudy | 24ºF Snow
-DESCRIPTION:Mostly cloudy, with a high near 37. Southwest wind 6 to 9 mph. 
- Chance of precipitation is 20%. New snow accumulation of less than half an
-  inch possible.\n\nOvernight: Snow between 8pm and 5am, then snow showers 
- likely. Cloudy, with a low around 24. West wind around 5 mph. Chance of pr
- ecipitation is 80%. New snow accumulation of 1 to 3 inches possible.\n\nSu
- nrise: 7:14:00 AM\nSunset: 4:25:47 PM\n\nForecast Detail: https://forecast
- .weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+DESCRIPTION:Mostly cloudy, with a high near 37. Southwest wind around 8 mph
+ . Chance of precipitation is 20%. New snow accumulation of less than half 
+ an inch possible.\n\nOvernight: Snow between 8pm and 5am, then snow shower
+ s likely. Cloudy, with a low around 24. West wind around 5 mph. Chance of 
+ precipitation is 80%. New snow accumulation of 1 to 3 inches possible.\n\n
+ Sunrise: 7:14:00 AM\nSunset: 4:25:47 PM\n\nForecast Detail: https://foreca
+ st.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20251214-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251213T183256Z
+DTSTAMP:20251213T202643Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251214
 DTEND:20251214
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:29ºF Chance Snow Showers; Partly Sunny | 11ºF Mostly Clear
-DESCRIPTION:A chance of snow showers before 9am. Partly sunny. High near 29
- , with temperatures falling to around 23 in the afternoon. Northwest wind 
- 5 to 12 mph. Chance of precipitation is 40%. New snow accumulation of 1 to
-  2 inches possible.\n\nOvernight: Mostly clear, with a low around 11. Nort
- hwest wind around 9 mph.\n\nSunrise: 7:14:45 AM\nSunset: 4:25:59 PM\n\nFor
- ecast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&t
- extField2=-73.89
+SUMMARY:27ºF Chance Snow Showers; Partly Sunny | 11ºF Mostly Clear
+DESCRIPTION:A chance of snow showers before 9am. Partly sunny, with a high 
+ near 27. Northwest wind 5 to 12 mph. Chance of precipitation is 40%. New s
+ now accumulation of 1 to 3 inches possible.\n\nOvernight: Mostly clear, wi
+ th a low around 11. Northwest wind around 9 mph.\n\nSunrise: 7:14:45 AM\nS
+ unset: 4:25:59 PM\n\nForecast Detail: https://forecast.weather.gov/MapClic
+ k.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20251215-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251213T183256Z
+DTSTAMP:20251213T202643Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251215
 DTEND:20251215
@@ -65,7 +64,7 @@ DESCRIPTION:Mostly sunny, with a high near 30. West wind 5 to 9 mph.\n\nOve
 END:VEVENT
 BEGIN:VEVENT
 UID:20251216-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251213T183256Z
+DTSTAMP:20251213T202643Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251216
 DTEND:20251216
@@ -80,7 +79,7 @@ DESCRIPTION:Mostly sunny, with a high near 33.\n\nOvernight: Mostly cloudy,
 END:VEVENT
 BEGIN:VEVENT
 UID:20251217-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251213T183256Z
+DTSTAMP:20251213T202643Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251217
 DTEND:20251217
@@ -95,7 +94,7 @@ DESCRIPTION:Partly sunny, with a high near 43.\n\nOvernight: Partly cloudy,
 END:VEVENT
 BEGIN:VEVENT
 UID:20251218-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251213T183256Z
+DTSTAMP:20251213T202643Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251218
 DTEND:20251218
@@ -110,7 +109,7 @@ DESCRIPTION:Mostly cloudy, with a high near 48.\n\nOvernight: Rain after 7p
 END:VEVENT
 BEGIN:VEVENT
 UID:20251219-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20251213T183256Z
+DTSTAMP:20251213T202643Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20251219
 DTEND:20251219
