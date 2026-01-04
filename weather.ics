@@ -13,7 +13,7 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20260104-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260104T102541Z
+DTSTAMP:20260104T125145Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260104
 DTEND:20260104
@@ -21,16 +21,15 @@ LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
 SUMMARY:31ºF Chance Snow Showers; Mostly Sunny | 10ºF Partly Cloudy
-DESCRIPTION:A slight chance of snow showers before 7am. Mostly sunny, with 
- a high near 31. West wind 1 to 6 mph. Chance of precipitation is 20%. New 
- snow accumulation of less than half an inch possible.\n\nOvernight: Partly
-  cloudy, with a low around 10. Northwest wind 1 to 5 mph.\n\nSunrise: 7:22
- :27 AM\nSunset: 4:38:54 PM\n\nForecast Detail: https://forecast.weather.go
- v/MapClick.php?textField1=41.60&textField2=-73.89
+DESCRIPTION:A slight chance of snow showers before 8am. Mostly sunny, with 
+ a high near 31. West wind 1 to 6 mph. Chance of precipitation is 20%.\n\nO
+ vernight: Partly cloudy, with a low around 10. Northwest wind 1 to 5 mph.\
+ n\nSunrise: 7:22:27 AM\nSunset: 4:38:54 PM\n\nForecast Detail: https://for
+ ecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260105-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260104T102541Z
+DTSTAMP:20260104T125145Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260105
 DTEND:20260105
@@ -50,7 +49,7 @@ DESCRIPTION:A chance of snow showers after 7am. Mostly cloudy, with a high
 END:VEVENT
 BEGIN:VEVENT
 UID:20260106-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260104T102541Z
+DTSTAMP:20260104T125145Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260106
 DTEND:20260106
@@ -60,15 +59,16 @@ URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
 SUMMARY:38ºF Mostly Cloudy; Chance Rain Showers | 30ºF Chance Rain And Sn
  ow Showers
 DESCRIPTION:A slight chance of rain showers after 1pm. Mostly cloudy, with 
- a high near 38. Chance of precipitation is 20%.\n\nOvernight: A slight cha
- nce of rain showers before 7pm, then a chance of rain and snow showers. Cl
- oudy, with a low around 30. Chance of precipitation is 50%.\n\nSunrise: 7:
- 22:21 AM\nSunset: 4:40:49 PM\n\nForecast Detail: https://forecast.weather.
- gov/MapClick.php?textField1=41.60&textField2=-73.89
+ a high near 38. East wind around 2 mph. Chance of precipitation is 20%.\n\
+ nOvernight: A slight chance of rain showers before 7pm, then a chance of r
+ ain and snow showers. Cloudy, with a low around 30. Chance of precipitatio
+ n is 50%. New rainfall amounts less than a tenth of an inch possible.\n\nS
+ unrise: 7:22:21 AM\nSunset: 4:40:49 PM\n\nForecast Detail: https://forecas
+ t.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260107-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260104T102541Z
+DTSTAMP:20260104T125145Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260107
 DTEND:20260107
@@ -84,7 +84,7 @@ DESCRIPTION:A chance of rain showers before 1pm. Mostly cloudy, with a high
 END:VEVENT
 BEGIN:VEVENT
 UID:20260108-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260104T102541Z
+DTSTAMP:20260104T125145Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260108
 DTEND:20260108
@@ -100,7 +100,7 @@ DESCRIPTION:Mostly sunny, with a high near 44.\n\nOvernight: A chance of ra
 END:VEVENT
 BEGIN:VEVENT
 UID:20260109-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260104T102541Z
+DTSTAMP:20260104T125145Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260109
 DTEND:20260109
@@ -116,16 +116,18 @@ DESCRIPTION:A chance of rain showers. Mostly cloudy, with a high near 48. C
 END:VEVENT
 BEGIN:VEVENT
 UID:20260110-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260104T102541Z
+DTSTAMP:20260104T125145Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260110
 DTEND:20260110
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:51ºF Chance Rain Showers
-DESCRIPTION:A chance of rain showers. Partly sunny, with a high near 51.\n\
- nSunrise: 7:21:37 AM\nSunset: 4:44:56 PM\n\nForecast Detail: https://forec
- ast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+SUMMARY:51ºF Chance Rain Showers | 32ºF Chance Rain Showers
+DESCRIPTION:A chance of rain showers. Partly sunny, with a high near 51. Ch
+ ance of precipitation is 40%.\n\nOvernight: A chance of rain showers. Most
+ ly cloudy, with a low around 32.\n\nSunrise: 7:21:37 AM\nSunset: 4:44:56 P
+ M\n\nForecast Detail: https://forecast.weather.gov/MapClick.php?textField1
+ =41.60&textField2=-73.89
 END:VEVENT
 END:VCALENDAR
