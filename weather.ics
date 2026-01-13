@@ -13,52 +13,51 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20260113-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260113T163844Z
+DTSTAMP:20260113T183742Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260113
 DTEND:20260113
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:44ºF Mostly Sunny | 35ºF Cloudy; Chance Light Rain
-DESCRIPTION:Mostly sunny, with a high near 44. South wind around 7 mph.\n\n
- Overnight: A slight chance of rain after 5am. Cloudy, with a low around 35
- . South wind around 7 mph. Chance of precipitation is 20%. New rainfall am
- ounts less than a tenth of an inch possible.\n\nSunrise: 7:20:41 AM\nSunse
- t: 4:48:14 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.ph
- p?textField1=41.60&textField2=-73.89
+SUMMARY:44ºF Partly Sunny | 36ºF Cloudy
+DESCRIPTION:Partly sunny, with a high near 44. South wind around 7 mph.\n\n
+ Overnight: Cloudy, with a low around 36. South wind around 7 mph.\n\nSunri
+ se: 7:20:41 AM\nSunset: 4:48:14 PM\n\nForecast Detail: https://forecast.we
+ ather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260114-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260113T163844Z
+DTSTAMP:20260113T183742Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260114
 DTEND:20260114
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:46ºF Chance Light Rain | 27ºF Light Rain Likely
-DESCRIPTION:A chance of rain. Mostly cloudy, with a high near 46. South win
- d around 6 mph. Chance of precipitation is 30%. New rainfall amounts less 
- than a tenth of an inch possible.\n\nOvernight: Rain likely before 4am, th
- en rain and snow likely. Cloudy, with a low around 27. Southwest wind 2 to
-  6 mph. Chance of precipitation is 60%. New rainfall amounts between a ten
- th and quarter of an inch possible.\n\nSunrise: 7:20:18 AM\nSunset: 4:49:2
- 0 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.php?textFie
- ld1=41.60&textField2=-73.89
+SUMMARY:46ºF Chance Rain Showers; Chance Light Rain | 28ºF Light Rain Lik
+ ely; Rain And Snow Likely
+DESCRIPTION:A chance of rain showers between 7am and 1pm, then a chance of 
+ rain. Cloudy, with a high near 46. South wind around 6 mph. Chance of prec
+ ipitation is 50%. New rainfall amounts less than a tenth of an inch possib
+ le.\n\nOvernight: Rain likely before 4am, then rain and snow likely. Cloud
+ y, with a low around 28. South wind 2 to 7 mph. Chance of precipitation is
+  70%. New snow accumulation of less than half an inch possible.\n\nSunrise
+ : 7:20:18 AM\nSunset: 4:49:20 PM\n\nForecast Detail: https://forecast.weat
+ her.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260115-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260113T163844Z
+DTSTAMP:20260113T183742Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260115
 DTEND:20260115
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:33ºF Rain And Snow Likely | 13ºF Partly Cloudy
+SUMMARY:29ºF Rain And Snow Likely | 13ºF Partly Cloudy
 DESCRIPTION:Rain and snow likely before 1pm. Partly sunny, with a high near
-  33. West wind 7 to 12 mph. Chance of precipitation is 60%. New snow accum
+  29. West wind 7 to 12 mph. Chance of precipitation is 70%. New snow accum
  ulation of less than half an inch possible.\n\nOvernight: Partly cloudy, w
  ith a low around 13.\n\nSunrise: 7:19:53 AM\nSunset: 4:50:30 PM\n\nForecas
  t Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&textF
@@ -66,65 +65,65 @@ DESCRIPTION:Rain and snow likely before 1pm. Partly sunny, with a high near
 END:VEVENT
 BEGIN:VEVENT
 UID:20260116-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260113T163844Z
+DTSTAMP:20260113T183742Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260116
 DTEND:20260116
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:30ºF Mostly Sunny | 23ºF Mostly Cloudy
-DESCRIPTION:Mostly sunny, with a high near 30.\n\nOvernight: Mostly cloudy,
+SUMMARY:31ºF Mostly Sunny | 23ºF Mostly Cloudy
+DESCRIPTION:Mostly sunny, with a high near 31.\n\nOvernight: Mostly cloudy,
   with a low around 23.\n\nSunrise: 7:19:25 AM\nSunset: 4:51:39 PM\n\nForec
  ast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&tex
  tField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260117-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260113T163844Z
+DTSTAMP:20260113T183742Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260117
 DTEND:20260117
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:40ºF Mostly Sunny; Chance Light Snow | 24ºF Chance Light Snow; Mo
- stly Cloudy
-DESCRIPTION:A slight chance of snow after 1pm. Mostly sunny, with a high ne
- ar 40.\n\nOvernight: A slight chance of snow before 7pm. Mostly cloudy, wi
- th a low around 24.\n\nSunrise: 7:18:55 AM\nSunset: 4:52:50 PM\n\nForecast
-  Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&textFi
- eld2=-73.89
+SUMMARY:40ºF Mostly Sunny; Chance Snow Showers | 22ºF Chance Snow Shower
+ s
+DESCRIPTION:A slight chance of snow showers after 1pm. Mostly sunny, with a
+  high near 40.\n\nOvernight: A slight chance of snow showers before 1am. M
+ ostly cloudy, with a low around 22.\n\nSunrise: 7:18:55 AM\nSunset: 4:52:5
+ 0 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.php?textFie
+ ld1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260118-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260113T163844Z
+DTSTAMP:20260113T183742Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260118
 DTEND:20260118
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:34ºF Mostly Sunny; Chance Light Snow | 19ºF Chance Light Snow; Pa
- rtly Cloudy
-DESCRIPTION:A slight chance of snow after 1pm. Mostly sunny, with a high ne
- ar 34.\n\nOvernight: A slight chance of snow before 7pm. Partly cloudy, wi
- th a low around 19.\n\nSunrise: 7:18:23 AM\nSunset: 4:54:01 PM\n\nForecast
-  Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&textFi
- eld2=-73.89
+SUMMARY:32ºF Mostly Sunny; Chance Snow Showers | 17ºF Chance Snow Showers
+ ; Mostly Cloudy
+DESCRIPTION:A slight chance of snow showers after 1pm. Mostly sunny, with a
+  high near 32.\n\nOvernight: A slight chance of snow showers before 7pm. M
+ ostly cloudy, with a low around 17.\n\nSunrise: 7:18:23 AM\nSunset: 4:54:0
+ 1 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.php?textFie
+ ld1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260119-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260113T163844Z
+DTSTAMP:20260113T183742Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260119
 DTEND:20260119
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:29ºF Partly Sunny | 15ºF Mostly Cloudy
-DESCRIPTION:Partly sunny, with a high near 29.\n\nOvernight: Mostly cloudy,
-  with a low around 15.\n\nSunrise: 7:17:48 AM\nSunset: 4:55:12 PM\n\nForec
+SUMMARY:30ºF Partly Sunny | 16ºF Mostly Cloudy
+DESCRIPTION:Partly sunny, with a high near 30.\n\nOvernight: Mostly cloudy,
+  with a low around 16.\n\nSunrise: 7:17:48 AM\nSunset: 4:55:12 PM\n\nForec
  ast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&tex
  tField2=-73.89
 END:VEVENT
