@@ -13,23 +13,22 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20260120-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260120T222731Z
+DTSTAMP:20260121T021104Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260120
 DTEND:20260120
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:22ºF Mostly Sunny | 4ºF Mostly Clear
-DESCRIPTION:Mostly sunny, with a high near 22. West wind 8 to 13 mph, with 
- gusts as high as 23 mph.\n\nOvernight: Mostly clear, with a low around 4. 
- Southwest wind 2 to 6 mph.\n\nSunrise: 7:17:12 AM\nSunset: 4:56:25 PM\n\nF
- orecast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60
- &textField2=-73.89
+SUMMARY:Tonight: 4ºF Mostly Clear
+DESCRIPTION:Tonight: Mostly clear, with a low around 4. Southwest wind arou
+ nd 3 mph.\n\nSunrise: 7:17:12 AM\nSunset: 4:56:25 PM\n\nForecast Detail: h
+ ttps://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.8
+ 9
 END:VEVENT
 BEGIN:VEVENT
 UID:20260121-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260120T222731Z
+DTSTAMP:20260121T021104Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260121
 DTEND:20260121
@@ -45,7 +44,7 @@ DESCRIPTION:Mostly sunny, with a high near 29. South wind 2 to 12 mph, with
 END:VEVENT
 BEGIN:VEVENT
 UID:20260122-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260120T222731Z
+DTSTAMP:20260121T021104Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260122
 DTEND:20260122
@@ -55,12 +54,13 @@ URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
 SUMMARY:42ºF Mostly Sunny | 20ºF Mostly Cloudy
 DESCRIPTION:Mostly sunny, with a high near 42. Southwest wind 8 to 15 mph, 
  with gusts as high as 31 mph.\n\nOvernight: Mostly cloudy, with a low arou
- nd 20.\n\nSunrise: 7:15:54 AM\nSunset: 4:58:52 PM\n\nForecast Detail: http
- s://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+ nd 20. West wind 6 to 10 mph, with gusts as high as 23 mph.\n\nSunrise: 7:
+ 15:54 AM\nSunset: 4:58:52 PM\n\nForecast Detail: https://forecast.weather.
+ gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260123-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260120T222731Z
+DTSTAMP:20260121T021104Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260123
 DTEND:20260123
@@ -75,7 +75,7 @@ DESCRIPTION:Partly sunny, with a high near 28.\n\nOvernight: Partly cloudy,
 END:VEVENT
 BEGIN:VEVENT
 UID:20260124-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260120T222731Z
+DTSTAMP:20260121T021104Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260124
 DTEND:20260124
@@ -90,7 +90,7 @@ DESCRIPTION:Mostly sunny, with a high near 15.\n\nOvernight: A chance of sn
 END:VEVENT
 BEGIN:VEVENT
 UID:20260125-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260120T222731Z
+DTSTAMP:20260121T021104Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260125
 DTEND:20260125
@@ -108,7 +108,7 @@ DESCRIPTION:A chance of snow before 1pm, then a chance of snow showers. Mos
 END:VEVENT
 BEGIN:VEVENT
 UID:20260126-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260120T222731Z
+DTSTAMP:20260121T021104Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260126
 DTEND:20260126
@@ -121,5 +121,19 @@ DESCRIPTION:A chance of snow. Partly sunny, with a high near 22. Chance of
  rtly cloudy, with a low around 8.\n\nSunrise: 7:12:51 AM\nSunset: 5:03:50 
  PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.php?textField
  1=41.60&textField2=-73.89
+END:VEVENT
+BEGIN:VEVENT
+UID:20260127-wappingers-falls-ny{41.60,-73.89}@github.com
+DTSTAMP:20260121T021104Z
+LAST-MODIFIED:00010101T000000Z
+DTSTART:20260127
+DTEND:20260127
+LOCATION:Wappingers Falls, NY
+URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
+ 73.89
+SUMMARY:25ºF Mostly Sunny
+DESCRIPTION:Mostly sunny, with a high near 25.\n\nSunrise: 7:12:01 AM\nSuns
+ et: 5:05:05 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.p
+ hp?textField1=41.60&textField2=-73.89
 END:VEVENT
 END:VCALENDAR
