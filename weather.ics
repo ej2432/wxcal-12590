@@ -13,22 +13,22 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20260128-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260128T223244Z
+DTSTAMP:20260129T023231Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260128
 DTEND:20260128
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:23ºF Partly Sunny | -1ºF Mostly Cloudy
-DESCRIPTION:Partly sunny, with a high near 23. Southwest wind around 2 mph.
- \n\nOvernight: Mostly cloudy, with a low around -1. Southwest wind around 
- 2 mph.\n\nSunrise: 7:11:09 AM\nSunset: 5:06:22 PM\n\nForecast Detail: http
- s://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+SUMMARY:Tonight: -1ºF Mostly Cloudy
+DESCRIPTION:Tonight: Mostly cloudy, with a low around -1. Southwest wind ar
+ ound 2 mph.\n\nSunrise: 7:11:09 AM\nSunset: 5:06:22 PM\n\nForecast Detail:
+  https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73
+ .89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260129-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260128T223244Z
+DTSTAMP:20260129T023231Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260129
 DTEND:20260129
@@ -44,7 +44,7 @@ DESCRIPTION:Mostly sunny, with a high near 22. Wind chill values as low as
 END:VEVENT
 BEGIN:VEVENT
 UID:20260130-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260128T223244Z
+DTSTAMP:20260129T023231Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260130
 DTEND:20260130
@@ -52,14 +52,15 @@ LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
 SUMMARY:17ºF Sunny | -8ºF Mostly Clear
-DESCRIPTION:Sunny, with a high near 17. West wind 3 to 7 mph.\n\nOvernight:
-  Mostly clear, with a low around -8.\n\nSunrise: 7:09:18 AM\nSunset: 5:08:
- 54 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.php?textFi
- eld1=41.60&textField2=-73.89
+DESCRIPTION:Sunny, with a high near 17. Wind chill values as low as -11. We
+ st wind 3 to 7 mph.\n\nOvernight: Mostly clear, with a low around -8. West
+  wind 1 to 5 mph.\n\nSunrise: 7:09:18 AM\nSunset: 5:08:54 PM\n\nForecast D
+ etail: https://forecast.weather.gov/MapClick.php?textField1=41.60&textFiel
+ d2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260131-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260128T223244Z
+DTSTAMP:20260129T023231Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260131
 DTEND:20260131
@@ -74,7 +75,7 @@ DESCRIPTION:Mostly sunny, with a high near 18.\n\nOvernight: A slight chanc
 END:VEVENT
 BEGIN:VEVENT
 UID:20260201-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260128T223244Z
+DTSTAMP:20260129T023231Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260201
 DTEND:20260201
@@ -90,7 +91,7 @@ DESCRIPTION:A chance of snow. Mostly cloudy, with a high near 22. Chance of
 END:VEVENT
 BEGIN:VEVENT
 UID:20260202-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260128T223244Z
+DTSTAMP:20260129T023231Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260202
 DTEND:20260202
@@ -105,7 +106,7 @@ DESCRIPTION:Mostly sunny, with a high near 31.\n\nOvernight: Partly cloudy,
 END:VEVENT
 BEGIN:VEVENT
 UID:20260203-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260128T223244Z
+DTSTAMP:20260129T023231Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260203
 DTEND:20260203
@@ -117,5 +118,19 @@ DESCRIPTION:Partly sunny, with a high near 32.\n\nOvernight: Partly cloudy,
   with a low around 9.\n\nSunrise: 7:05:17 AM\nSunset: 5:13:59 PM\n\nForeca
  st Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&text
  Field2=-73.89
+END:VEVENT
+BEGIN:VEVENT
+UID:20260204-wappingers-falls-ny{41.60,-73.89}@github.com
+DTSTAMP:20260129T023231Z
+LAST-MODIFIED:00010101T000000Z
+DTSTART:20260204
+DTEND:20260204
+LOCATION:Wappingers Falls, NY
+URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
+ 73.89
+SUMMARY:29ºF Mostly Sunny
+DESCRIPTION:Mostly sunny, with a high near 29.\n\nSunrise: 7:04:12 AM\nSuns
+ et: 5:15:16 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.p
+ hp?textField1=41.60&textField2=-73.89
 END:VEVENT
 END:VCALENDAR
