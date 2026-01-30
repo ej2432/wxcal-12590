@@ -13,23 +13,23 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20260130-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260130T185227Z
+DTSTAMP:20260130T203650Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260130
 DTEND:20260130
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:15ºF Mostly Sunny | -10ºF Mostly Clear
-DESCRIPTION:Mostly sunny, with a high near 15. Wind chill values as low as 
- -1. Northwest wind around 12 mph.\n\nOvernight: Mostly clear, with a low a
- round -10. Wind chill values as low as -19. West wind 3 to 8 mph.\n\nSunri
- se: 7:09:18 AM\nSunset: 5:08:54 PM\n\nForecast Detail: https://forecast.we
- ather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+SUMMARY:16ºF Mostly Sunny | -10ºF Mostly Clear
+DESCRIPTION:Mostly sunny, with a high near 16. Northwest wind around 12 mph
+ .\n\nOvernight: Mostly clear, with a low around -10. Wind chill values as 
+ low as -19. West wind 3 to 8 mph.\n\nSunrise: 7:09:18 AM\nSunset: 5:08:54 
+ PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.php?textField
+ 1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260131-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260130T185227Z
+DTSTAMP:20260130T203650Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260131
 DTEND:20260131
@@ -45,7 +45,7 @@ DESCRIPTION:Sunny, with a high near 19. Wind chill values as low as -18. No
 END:VEVENT
 BEGIN:VEVENT
 UID:20260201-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260130T185227Z
+DTSTAMP:20260130T203650Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260201
 DTEND:20260201
@@ -60,7 +60,7 @@ DESCRIPTION:Mostly cloudy, with a high near 21. North wind 14 to 17 mph, wi
 END:VEVENT
 BEGIN:VEVENT
 UID:20260202-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260130T185227Z
+DTSTAMP:20260130T203650Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260202
 DTEND:20260202
@@ -75,7 +75,7 @@ DESCRIPTION:Sunny, with a high near 31.\n\nOvernight: Mostly clear, with a
 END:VEVENT
 BEGIN:VEVENT
 UID:20260203-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260130T185227Z
+DTSTAMP:20260130T203650Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260203
 DTEND:20260203
@@ -90,7 +90,7 @@ DESCRIPTION:Mostly sunny, with a high near 31.\n\nOvernight: Partly cloudy,
 END:VEVENT
 BEGIN:VEVENT
 UID:20260204-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260130T185227Z
+DTSTAMP:20260130T203650Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260204
 DTEND:20260204
@@ -106,7 +106,7 @@ DESCRIPTION:A slight chance of snow showers after 1pm. Mostly sunny, with a
 END:VEVENT
 BEGIN:VEVENT
 UID:20260205-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260130T185227Z
+DTSTAMP:20260130T203650Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260205
 DTEND:20260205
