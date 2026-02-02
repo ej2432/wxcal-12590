@@ -13,53 +13,54 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20260202-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260202T052559Z
+DTSTAMP:20260202T070914Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260202
 DTEND:20260202
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:30ºF Sunny | 1ºF Mostly Clear
-DESCRIPTION:Sunny, with a high near 30. Wind chill values as low as -12. No
- rthwest wind around 6 mph.\n\nOvernight: Mostly clear, with a low around 1
- . Northwest wind around 2 mph.\n\nSunrise: 7:06:19 AM\nSunset: 5:12:43 PM\
- n\nForecast Detail: https://forecast.weather.gov/MapClick.php?textField1=4
- 1.60&textField2=-73.89
+SUMMARY:29ºF Sunny | 0ºF Partly Cloudy
+DESCRIPTION:Sunny, with a high near 29. Wind chill values as low as -8. Nor
+ th wind around 6 mph.\n\nOvernight: Partly cloudy, with a low around 0. So
+ uth wind around 2 mph.\n\nSunrise: 7:06:19 AM\nSunset: 5:12:43 PM\n\nForec
+ ast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&tex
+ tField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260203-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260202T052559Z
+DTSTAMP:20260202T070914Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260203
 DTEND:20260203
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:31ºF Mostly Sunny | 9ºF Mostly Cloudy
-DESCRIPTION:Mostly sunny, with a high near 31. West wind around 2 mph.\n\nO
- vernight: Mostly cloudy, with a low around 9. West wind around 2 mph.\n\nS
- unrise: 7:05:17 AM\nSunset: 5:13:59 PM\n\nForecast Detail: https://forecas
- t.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+SUMMARY:31ºF Mostly Sunny | 12ºF Mostly Cloudy
+DESCRIPTION:Mostly sunny, with a high near 31. Wind chill values as low as 
+ 0. Southwest wind around 2 mph.\n\nOvernight: Mostly cloudy, with a low ar
+ ound 12. Southwest wind around 2 mph.\n\nSunrise: 7:05:17 AM\nSunset: 5:13
+ :59 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.php?textF
+ ield1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260204-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260202T052559Z
+DTSTAMP:20260202T070914Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260204
 DTEND:20260204
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:29ºF Mostly Sunny | 3ºF Partly Cloudy
-DESCRIPTION:Mostly sunny, with a high near 29.\n\nOvernight: Partly cloudy,
-  with a low around 3.\n\nSunrise: 7:04:12 AM\nSunset: 5:15:16 PM\n\nForeca
+SUMMARY:30ºF Mostly Sunny | 4ºF Partly Cloudy
+DESCRIPTION:Mostly sunny, with a high near 30.\n\nOvernight: Partly cloudy,
+  with a low around 4.\n\nSunrise: 7:04:12 AM\nSunset: 5:15:16 PM\n\nForeca
  st Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&text
  Field2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260205-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260202T052559Z
+DTSTAMP:20260202T070914Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260205
 DTEND:20260205
@@ -74,47 +75,48 @@ DESCRIPTION:Mostly sunny, with a high near 28.\n\nOvernight: Partly cloudy,
 END:VEVENT
 BEGIN:VEVENT
 UID:20260206-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260202T052559Z
+DTSTAMP:20260202T070914Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260206
 DTEND:20260206
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:28ºF Chance Light Snow | 5ºF Chance Light Snow
-DESCRIPTION:A chance of snow after 7am. Mostly cloudy, with a high near 28.
-  Chance of precipitation is 30%.\n\nOvernight: A chance of snow before 1am
- . Mostly cloudy, with a low around 5. Chance of precipitation is 30%.\n\nS
- unrise: 7:01:58 AM\nSunset: 5:17:48 PM\n\nForecast Detail: https://forecas
- t.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+SUMMARY:28ºF Chance Snow Showers | 1ºF Chance Snow Showers
+DESCRIPTION:A chance of snow showers after 7am. Mostly cloudy, with a high 
+ near 28. Chance of precipitation is 40%.\n\nOvernight: A chance of snow sh
+ owers before 1am. Mostly cloudy, with a low around 1. Chance of precipitat
+ ion is 40%.\n\nSunrise: 7:01:58 AM\nSunset: 5:17:48 PM\n\nForecast Detail:
+  https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73
+ .89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260207-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260202T052559Z
+DTSTAMP:20260202T070914Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260207
 DTEND:20260207
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:18ºF Mostly Sunny | -2ºF Mostly Clear
-DESCRIPTION:Mostly sunny, with a high near 18.\n\nOvernight: Mostly clear, 
- with a low around -2.\n\nSunrise: 7:00:49 AM\nSunset: 5:19:05 PM\n\nForeca
- st Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&text
- Field2=-73.89
+SUMMARY:13ºF Mostly Sunny | -2ºF Partly Cloudy
+DESCRIPTION:Mostly sunny, with a high near 13.\n\nOvernight: Partly cloudy,
+  with a low around -2.\n\nSunrise: 7:00:49 AM\nSunset: 5:19:05 PM\n\nForec
+ ast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&tex
+ tField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260208-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260202T052559Z
+DTSTAMP:20260202T070914Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260208
 DTEND:20260208
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:17ºF Sunny
-DESCRIPTION:Sunny, with a high near 17.\n\nSunrise: 6:59:38 AM\nSunset: 5:2
- 0:21 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.php?text
- Field1=41.60&textField2=-73.89
+SUMMARY:17ºF Mostly Sunny
+DESCRIPTION:Mostly sunny, with a high near 17.\n\nSunrise: 6:59:38 AM\nSuns
+ et: 5:20:21 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.p
+ hp?textField1=41.60&textField2=-73.89
 END:VEVENT
 END:VCALENDAR
