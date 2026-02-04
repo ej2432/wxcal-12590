@@ -13,22 +13,22 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20260204-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260204T104638Z
+DTSTAMP:20260204T131234Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260204
 DTEND:20260204
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:30ºF Mostly Sunny | 2ºF Partly Cloudy
-DESCRIPTION:Mostly sunny, with a high near 30. Northwest wind 2 to 6 mph.\n
- \nOvernight: Partly cloudy, with a low around 2. Northwest wind around 2 m
- ph.\n\nSunrise: 7:04:12 AM\nSunset: 5:15:16 PM\n\nForecast Detail: https:/
- /forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+SUMMARY:31ºF Sunny | 2ºF Partly Cloudy
+DESCRIPTION:Sunny, with a high near 31. Northwest wind 3 to 8 mph.\n\nOvern
+ ight: Partly cloudy, with a low around 2. Northwest wind around 2 mph.\n\n
+ Sunrise: 7:04:12 AM\nSunset: 5:15:16 PM\n\nForecast Detail: https://foreca
+ st.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260205-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260204T104638Z
+DTSTAMP:20260204T131234Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260205
 DTEND:20260205
@@ -43,7 +43,7 @@ DESCRIPTION:Mostly sunny, with a high near 29. Northeast wind 1 to 5 mph.\n
 END:VEVENT
 BEGIN:VEVENT
 UID:20260206-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260204T104638Z
+DTSTAMP:20260204T131234Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260206
 DTEND:20260206
@@ -51,15 +51,15 @@ LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
 SUMMARY:29ºF Partly Sunny | 13ºF Chance Snow Showers
-DESCRIPTION:Partly sunny, with a high near 29.\n\nOvernight: A chance of sn
- ow showers after 7pm. Mostly cloudy, with a low around 13. Chance of preci
- pitation is 40%.\n\nSunrise: 7:01:58 AM\nSunset: 5:17:48 PM\n\nForecast De
- tail: https://forecast.weather.gov/MapClick.php?textField1=41.60&textField
- 2=-73.89
+DESCRIPTION:Partly sunny, with a high near 29. West wind around 3 mph.\n\nO
+ vernight: A chance of snow showers after 7pm. Mostly cloudy, with a low ar
+ ound 13. Chance of precipitation is 40%.\n\nSunrise: 7:01:58 AM\nSunset: 5
+ :17:48 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.php?te
+ xtField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260207-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260204T104638Z
+DTSTAMP:20260204T131234Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260207
 DTEND:20260207
@@ -75,7 +75,7 @@ DESCRIPTION:A chance of snow showers before 1pm. Mostly sunny, with a high
 END:VEVENT
 BEGIN:VEVENT
 UID:20260208-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260204T104638Z
+DTSTAMP:20260204T131234Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260208
 DTEND:20260208
@@ -90,7 +90,7 @@ DESCRIPTION:Mostly sunny, with a high near 15.\n\nOvernight: Partly cloudy,
 END:VEVENT
 BEGIN:VEVENT
 UID:20260209-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260204T104638Z
+DTSTAMP:20260204T131234Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260209
 DTEND:20260209
@@ -105,16 +105,17 @@ DESCRIPTION:Mostly sunny, with a high near 22.\n\nOvernight: Partly cloudy,
 END:VEVENT
 BEGIN:VEVENT
 UID:20260210-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260204T104638Z
+DTSTAMP:20260204T131234Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260210
 DTEND:20260210
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:30ºF Mostly Sunny
-DESCRIPTION:Mostly sunny, with a high near 30.\n\nSunrise: 6:57:12 AM\nSuns
- et: 5:22:53 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.p
- hp?textField1=41.60&textField2=-73.89
+SUMMARY:30ºF Mostly Sunny | 14ºF Partly Cloudy
+DESCRIPTION:Mostly sunny, with a high near 30.\n\nOvernight: Partly cloudy,
+  with a low around 14.\n\nSunrise: 6:57:12 AM\nSunset: 5:22:53 PM\n\nForec
+ ast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&tex
+ tField2=-73.89
 END:VEVENT
 END:VCALENDAR
