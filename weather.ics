@@ -13,22 +13,22 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20260217-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260217T145235Z
+DTSTAMP:20260217T170309Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260217
 DTEND:20260217
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:48ºF Partly Sunny | 28ºF Mostly Cloudy
-DESCRIPTION:Partly sunny, with a high near 48. Southwest wind around 5 mph.
- \n\nOvernight: Mostly cloudy, with a low around 28. South wind around 2 mp
- h.\n\nSunrise: 6:47:58 AM\nSunset: 5:31:39 PM\n\nForecast Detail: https://
- forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+SUMMARY:48ºF Mostly Sunny | 28ºF Mostly Cloudy
+DESCRIPTION:Mostly sunny, with a high near 48. West wind around 5 mph.\n\nO
+ vernight: Mostly cloudy, with a low around 28. South wind around 2 mph.\n\
+ nSunrise: 6:47:58 AM\nSunset: 5:31:39 PM\n\nForecast Detail: https://forec
+ ast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260218-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260217T145235Z
+DTSTAMP:20260217T170309Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260218
 DTEND:20260218
@@ -46,7 +46,7 @@ DESCRIPTION:Rain after 7am. Cloudy, with a high near 37. Northeast wind aro
 END:VEVENT
 BEGIN:VEVENT
 UID:20260219-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260217T145235Z
+DTSTAMP:20260217T170309Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260219
 DTEND:20260219
@@ -64,7 +64,7 @@ DESCRIPTION:Partly sunny, with a high near 40. Northeast wind around 5 mph.
 END:VEVENT
 BEGIN:VEVENT
 UID:20260220-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260217T145235Z
+DTSTAMP:20260217T170309Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260220
 DTEND:20260220
@@ -81,7 +81,7 @@ DESCRIPTION:A chance of snow before 7am, then rain and snow. Mostly cloudy,
 END:VEVENT
 BEGIN:VEVENT
 UID:20260221-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260217T145235Z
+DTSTAMP:20260217T170309Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260221
 DTEND:20260221
@@ -98,7 +98,7 @@ DESCRIPTION:A chance of rain and snow. Partly sunny, with a high near 42. C
 END:VEVENT
 BEGIN:VEVENT
 UID:20260222-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260217T145235Z
+DTSTAMP:20260217T170309Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260222
 DTEND:20260222
@@ -114,7 +114,7 @@ DESCRIPTION:A chance of snow. Mostly cloudy, with a high near 38. Chance of
 END:VEVENT
 BEGIN:VEVENT
 UID:20260223-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260217T145235Z
+DTSTAMP:20260217T170309Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260223
 DTEND:20260223
