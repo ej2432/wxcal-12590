@@ -13,27 +13,29 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20260316-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260316T191153Z
+DTSTAMP:20260316T204516Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260316
 DTEND:20260316
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:63ºF Showers And Thunderstorms | 31ºF Showers And Thunderstorms
-DESCRIPTION:Showers and thunderstorms. Mostly cloudy, with a high near 63. 
- South wind around 18 mph, with gusts as high as 37 mph. Chance of precipit
- ation is 80%. New rainfall amounts between a tenth and quarter of an inch 
- possible.\n\nOvernight: Showers and thunderstorms before 4am. Mostly cloud
- y. Low around 31, with temperatures rising to around 37 overnight. Southwe
- st wind 14 to 21 mph, with gusts as high as 41 mph. Chance of precipitatio
- n is 100%. New rainfall amounts between a quarter and half of an inch poss
- ible.\n\nSunrise: 7:05:32 AM\nSunset: 7:03:20 PM\n\nForecast Detail: https
- ://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+SUMMARY:63ºF Showers And Thunderstorms Likely | 31ºF Showers And Thunders
+ torms
+DESCRIPTION:Showers and thunderstorms likely. Mostly cloudy, with a high ne
+ ar 63. South wind around 18 mph, with gusts as high as 37 mph. Chance of p
+ recipitation is 70%. New rainfall amounts between a tenth and quarter of a
+ n inch possible.\n\nOvernight: Showers and thunderstorms before 4am. Mostl
+ y cloudy. Low around 31, with temperatures rising to around 37 overnight. 
+ Southwest wind 14 to 21 mph, with gusts as high as 41 mph. Chance of preci
+ pitation is 100%. New rainfall amounts between a quarter and half of an in
+ ch possible.\n\nSunrise: 7:05:32 AM\nSunset: 7:03:20 PM\n\nForecast Detail
+ : https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-7
+ 3.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260317-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260316T191153Z
+DTSTAMP:20260316T204516Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260317
 DTEND:20260317
@@ -50,7 +52,7 @@ DESCRIPTION:Mostly sunny, with a high near 40. West wind around 15 mph, wit
 END:VEVENT
 BEGIN:VEVENT
 UID:20260318-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260316T191153Z
+DTSTAMP:20260316T204516Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260318
 DTEND:20260318
@@ -65,7 +67,7 @@ DESCRIPTION:Mostly sunny, with a high near 39. West wind 2 to 6 mph.\n\nOve
 END:VEVENT
 BEGIN:VEVENT
 UID:20260319-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260316T191153Z
+DTSTAMP:20260316T204516Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260319
 DTEND:20260319
@@ -80,7 +82,7 @@ DESCRIPTION:Partly sunny, with a high near 46.\n\nOvernight: A slight chanc
 END:VEVENT
 BEGIN:VEVENT
 UID:20260320-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260316T191153Z
+DTSTAMP:20260316T204516Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260320
 DTEND:20260320
@@ -97,7 +99,7 @@ DESCRIPTION:A slight chance of rain. Partly sunny, with a high near 52.\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:20260321-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260316T191153Z
+DTSTAMP:20260316T204516Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260321
 DTEND:20260321
@@ -115,7 +117,7 @@ DESCRIPTION:A chance of rain and snow. Partly sunny, with a high near 50. C
 END:VEVENT
 BEGIN:VEVENT
 UID:20260322-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260316T191153Z
+DTSTAMP:20260316T204516Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260322
 DTEND:20260322
