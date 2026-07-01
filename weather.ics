@@ -12,47 +12,31 @@ METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
-UID:20260630-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260630T231707Z
-LAST-MODIFIED:00010101T000000Z
-DTSTART:20260630
-DTEND:20260630
-LOCATION:Wappingers Falls, NY
-URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
- 73.89
-SUMMARY:Tonight: 70ºF Chance Showers And Thunderstorms
-DESCRIPTION:Tonight: A chance of showers and thunderstorms. Partly cloudy, 
- with a low around 70. South wind around 7 mph. Chance of precipitation is 
- 30%. New rainfall amounts between a tenth and quarter of an inch possible.
- \n\nSunrise: 5:24:43 AM\nSunset: 8:33:41 PM\n\nForecast Detail: https://fo
- recast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
-END:VEVENT
-BEGIN:VEVENT
 UID:20260701-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260630T231707Z
+DTSTAMP:20260701T042124Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260701
 DTEND:20260701
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:97ºF Chance Rain Showers; Chance Showers And Thunderstorms | 75ºF
-  Chance Showers And Thunderstorms; Partly Cloudy
-DESCRIPTION:A slight chance of rain showers before 2pm, then a slight chanc
- e of showers and thunderstorms. Some of the storms could be severe. Mostly
-  sunny, with a high near 97. Heat index values as high as 110. Southwest w
- ind around 8 mph. Chance of precipitation is 20%. New rainfall amounts les
- s than a tenth of an inch possible.\n\nOvernight: A slight chance of showe
- rs and thunderstorms before 8pm. Some of the storms could be severe. Partl
- y cloudy, with a low around 75. Heat index values as high as 107. Southwes
- t wind 2 to 6 mph. Chance of precipitation is 20%. New rainfall amounts le
- ss than a tenth of an inch possible.\n\nSunrise: 5:25:13 AM\nSunset: 8:33:
- 34 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.php?textFi
- eld1=41.60&textField2=-73.89
+SUMMARY:97ºF Mostly Sunny; Chance Showers And Thunderstorms | 75ºF Chance
+  Showers And Thunderstorms; Partly Cloudy
+DESCRIPTION:A slight chance of rain showers between 1pm and 2pm, then a sli
+ ght chance of showers and thunderstorms. Some of the storms could be sever
+ e. Mostly sunny, with a high near 97. Heat index values as high as 110. So
+ uthwest wind around 8 mph. Chance of precipitation is 20%. New rainfall am
+ ounts less than a tenth of an inch possible.\n\nOvernight: A slight chance
+  of showers and thunderstorms before 8pm. Some of the storms could be seve
+ re. Partly cloudy, with a low around 75. Heat index values as high as 107.
+  Southwest wind 2 to 6 mph. Chance of precipitation is 20%. New rainfall a
+ mounts less than a tenth of an inch possible.\n\nSunrise: 5:25:13 AM\nSuns
+ et: 8:33:34 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.p
+ hp?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260702-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260630T231707Z
+DTSTAMP:20260701T042124Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260702
 DTEND:20260702
@@ -68,7 +52,7 @@ DESCRIPTION:Sunny, with a high near 102. Heat index values as high as 112.
 END:VEVENT
 BEGIN:VEVENT
 UID:20260703-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260630T231707Z
+DTSTAMP:20260701T042124Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260703
 DTEND:20260703
@@ -86,7 +70,7 @@ DESCRIPTION:A slight chance of showers and thunderstorms after 2pm. Sunny,
 END:VEVENT
 BEGIN:VEVENT
 UID:20260704-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260630T231707Z
+DTSTAMP:20260701T042124Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260704
 DTEND:20260704
@@ -104,7 +88,7 @@ DESCRIPTION:A chance of showers and thunderstorms after 2pm. Mostly sunny,
 END:VEVENT
 BEGIN:VEVENT
 UID:20260705-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260630T231707Z
+DTSTAMP:20260701T042124Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260705
 DTEND:20260705
@@ -122,7 +106,7 @@ DESCRIPTION:A chance of showers and thunderstorms after 2pm. Partly sunny,
 END:VEVENT
 BEGIN:VEVENT
 UID:20260706-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260630T231707Z
+DTSTAMP:20260701T042124Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260706
 DTEND:20260706
@@ -141,7 +125,7 @@ DESCRIPTION:A chance of rain showers before 2pm, then a chance of showers a
 END:VEVENT
 BEGIN:VEVENT
 UID:20260707-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260630T231707Z
+DTSTAMP:20260701T042124Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260707
 DTEND:20260707
