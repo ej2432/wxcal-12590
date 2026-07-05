@@ -13,7 +13,7 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20260705-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260705T135041Z
+DTSTAMP:20260705T151635Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260705
 DTEND:20260705
@@ -22,22 +22,22 @@ URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
 SUMMARY:83ºF Chance Showers And Thunderstorms | 61ºF Showers And Thunders
  torms
-DESCRIPTION:A slight chance of showers and thunderstorms between 11am and 1
- pm, then a chance of showers and thunderstorms between 1pm and 2pm, then a
-  chance of showers and thunderstorms between 2pm and 5pm, then showers and
-  thunderstorms likely. Mostly cloudy, with a high near 83. Northeast wind 
- around 3 mph. Chance of precipitation is 60%. New rainfall amounts between
-  a tenth and quarter of an inch possible.\n\nOvernight: Showers and thunde
- rstorms likely before 8pm, then a chance of showers and thunderstorms betw
- een 8pm and 9pm, then showers and thunderstorms. Cloudy, with a low around
-  61. East wind around 5 mph. Chance of precipitation is 90%. New rainfall 
- amounts between a half and three quarters of an inch possible.\n\nSunrise:
-  5:27:27 AM\nSunset: 8:32:42 PM\n\nForecast Detail: https://forecast.weath
- er.gov/MapClick.php?textField1=41.60&textField2=-73.89
+DESCRIPTION:A slight chance of showers and thunderstorms before 1pm, then a
+  chance of showers and thunderstorms between 1pm and 2pm, then a chance of
+  showers and thunderstorms between 2pm and 5pm, then showers and thunderst
+ orms likely. Mostly cloudy, with a high near 83. East wind around 3 mph. C
+ hance of precipitation is 60%. New rainfall amounts between a tenth and qu
+ arter of an inch possible.\n\nOvernight: Showers and thunderstorms likely 
+ before 8pm, then a chance of showers and thunderstorms between 8pm and 9pm
+ , then showers and thunderstorms. Cloudy, with a low around 61. East wind 
+ around 5 mph. Chance of precipitation is 90%. New rainfall amounts between
+  a half and three quarters of an inch possible.\n\nSunrise: 5:27:27 AM\nSu
+ nset: 8:32:42 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick
+ .php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260706-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260705T135041Z
+DTSTAMP:20260705T151635Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260706
 DTEND:20260706
@@ -56,7 +56,7 @@ DESCRIPTION:Showers and thunderstorms. Some of the storms could produce hea
 END:VEVENT
 BEGIN:VEVENT
 UID:20260707-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260705T135041Z
+DTSTAMP:20260705T151635Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260707
 DTEND:20260707
@@ -76,7 +76,7 @@ DESCRIPTION:Rain showers before 11am, then showers and thunderstorms likely
 END:VEVENT
 BEGIN:VEVENT
 UID:20260708-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260705T135041Z
+DTSTAMP:20260705T151635Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260708
 DTEND:20260708
@@ -92,7 +92,7 @@ DESCRIPTION:A chance of rain showers before 2pm. Mostly sunny, with a high
 END:VEVENT
 BEGIN:VEVENT
 UID:20260709-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260705T135041Z
+DTSTAMP:20260705T151635Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260709
 DTEND:20260709
@@ -110,7 +110,7 @@ DESCRIPTION:A slight chance of showers and thunderstorms after 2pm. Mostly
 END:VEVENT
 BEGIN:VEVENT
 UID:20260710-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260705T135041Z
+DTSTAMP:20260705T151635Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260710
 DTEND:20260710
@@ -128,7 +128,7 @@ DESCRIPTION:A slight chance of rain showers before 2pm, then showers and th
 END:VEVENT
 BEGIN:VEVENT
 UID:20260711-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260705T135041Z
+DTSTAMP:20260705T151635Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260711
 DTEND:20260711
