@@ -13,7 +13,7 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20260709-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260709T180041Z
+DTSTAMP:20260709T212602Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260709
 DTEND:20260709
@@ -22,19 +22,18 @@ URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
 SUMMARY:88ºF Chance Showers And Thunderstorms | 67ºF Chance Showers And T
  hunderstorms; Mostly Cloudy
-DESCRIPTION:A chance of showers and thunderstorms. Partly sunny, with a hig
- h near 88. Heat index values as high as 96. Southwest wind around 8 mph. C
- hance of precipitation is 30%. New rainfall amounts less than a tenth of a
- n inch possible.\n\nOvernight: A slight chance of showers and thunderstorm
- s before 7pm. Mostly cloudy, with a low around 67. South wind 2 to 7 mph. 
- Chance of precipitation is 20%. New rainfall amounts less than a tenth of 
- an inch possible.\n\nSunrise: 5:30:05 AM\nSunset: 8:31:16 PM\n\nForecast D
- etail: https://forecast.weather.gov/MapClick.php?textField1=41.60&textFiel
- d2=-73.89
+DESCRIPTION:A slight chance of showers and thunderstorms. Mostly sunny, wit
+ h a high near 88. South wind around 8 mph. Chance of precipitation is 20%.
+  New rainfall amounts less than a tenth of an inch possible.\n\nOvernight:
+  A slight chance of showers and thunderstorms before 7pm. Mostly cloudy, w
+ ith a low around 67. South wind 2 to 7 mph. Chance of precipitation is 20%
+ . New rainfall amounts less than a tenth of an inch possible.\n\nSunrise: 
+ 5:30:05 AM\nSunset: 8:31:16 PM\n\nForecast Detail: https://forecast.weathe
+ r.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260710-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260709T180041Z
+DTSTAMP:20260709T212602Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260710
 DTEND:20260710
@@ -55,7 +54,7 @@ DESCRIPTION:Patchy fog before 8am, then a slight chance of rain showers bet
 END:VEVENT
 BEGIN:VEVENT
 UID:20260711-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260709T180041Z
+DTSTAMP:20260709T212602Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260711
 DTEND:20260711
@@ -70,7 +69,7 @@ DESCRIPTION:Mostly sunny, with a high near 84. North wind 3 to 7 mph.\n\nOv
 END:VEVENT
 BEGIN:VEVENT
 UID:20260712-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260709T180041Z
+DTSTAMP:20260709T212602Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260712
 DTEND:20260712
@@ -85,7 +84,7 @@ DESCRIPTION:Sunny, with a high near 84.\n\nOvernight: Mostly clear, with a
 END:VEVENT
 BEGIN:VEVENT
 UID:20260713-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260709T180041Z
+DTSTAMP:20260709T212602Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260713
 DTEND:20260713
@@ -100,31 +99,31 @@ DESCRIPTION:Sunny, with a high near 87.\n\nOvernight: Mostly clear, with a
 END:VEVENT
 BEGIN:VEVENT
 UID:20260714-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260709T180041Z
+DTSTAMP:20260709T212602Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260714
 DTEND:20260714
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:92ºF Sunny | 69ºF Partly Cloudy
-DESCRIPTION:Sunny, with a high near 92.\n\nOvernight: Partly cloudy, with a
+SUMMARY:90ºF Sunny | 69ºF Partly Cloudy
+DESCRIPTION:Sunny, with a high near 90.\n\nOvernight: Partly cloudy, with a
   low around 69.\n\nSunrise: 5:33:48 AM\nSunset: 8:28:43 PM\n\nForecast Det
  ail: https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2
  =-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260715-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260709T180041Z
+DTSTAMP:20260709T212602Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260715
 DTEND:20260715
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:95ºF Mostly Sunny | 68ºF Partly Cloudy
-DESCRIPTION:Mostly sunny, with a high near 95.\n\nOvernight: Partly cloudy,
-  with a low around 68.\n\nSunrise: 5:34:36 AM\nSunset: 8:28:07 PM\n\nForec
+SUMMARY:93ºF Mostly Sunny | 67ºF Partly Cloudy
+DESCRIPTION:Mostly sunny, with a high near 93.\n\nOvernight: Partly cloudy,
+  with a low around 67.\n\nSunrise: 5:34:36 AM\nSunset: 8:28:07 PM\n\nForec
  ast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&tex
  tField2=-73.89
 END:VEVENT
