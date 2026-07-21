@@ -13,7 +13,7 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20260721-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260721T193752Z
+DTSTAMP:20260721T211500Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260721
 DTEND:20260721
@@ -22,22 +22,23 @@ URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
 SUMMARY:78ºF Showers And Thunderstorms Likely | 67ºF Showers And Thunders
  torms Likely; Chance Showers And Thunderstorms
-DESCRIPTION:Showers and thunderstorms likely before 5pm, then showers and t
- hunderstorms likely. Cloudy, with a high near 78. Southeast wind around 13
-  mph. Chance of precipitation is 70%. New rainfall amounts between a half 
- and three quarters of an inch possible.\n\nOvernight: Showers and thunders
- torms likely before 7pm, then showers and thunderstorms between 7pm and 10
- pm, then a chance of showers and thunderstorms between 10pm and 11pm, then
-  a chance of showers and thunderstorms between 11pm and 2am, then a slight
-  chance of showers and thunderstorms between 2am and 5am. Mostly cloudy, w
- ith a low around 67. South wind 6 to 10 mph. Chance of precipitation is 90
- %. New rainfall amounts between three quarters and one inch possible.\n\nS
- unrise: 5:39:43 AM\nSunset: 8:23:47 PM\n\nForecast Detail: https://forecas
- t.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+DESCRIPTION:Showers and thunderstorms likely. Some of the storms could be s
+ evere. Cloudy, with a high near 78. Southeast wind around 12 mph. Chance o
+ f precipitation is 70%. New rainfall amounts between a half and three quar
+ ters of an inch possible.\n\nOvernight: Showers and thunderstorms likely b
+ efore 7pm, then showers and thunderstorms between 7pm and 10pm, then a cha
+ nce of showers and thunderstorms between 10pm and 11pm, then a chance of s
+ howers and thunderstorms between 11pm and 2am, then a slight chance of sho
+ wers and thunderstorms between 2am and 5am. Some of the storms could be se
+ vere. Mostly cloudy, with a low around 67. South wind 6 to 10 mph. Chance 
+ of precipitation is 90%. New rainfall amounts between three quarters and o
+ ne inch possible.\n\nSunrise: 5:39:43 AM\nSunset: 8:23:47 PM\n\nForecast D
+ etail: https://forecast.weather.gov/MapClick.php?textField1=41.60&textFiel
+ d2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260722-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260721T193752Z
+DTSTAMP:20260721T211500Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260722
 DTEND:20260722
@@ -56,7 +57,7 @@ DESCRIPTION:A chance of showers and thunderstorms between 2pm and 4pm. Most
 END:VEVENT
 BEGIN:VEVENT
 UID:20260723-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260721T193752Z
+DTSTAMP:20260721T211500Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260723
 DTEND:20260723
@@ -71,7 +72,7 @@ DESCRIPTION:Sunny, with a high near 79. North wind 1 to 6 mph.\n\nOvernight
 END:VEVENT
 BEGIN:VEVENT
 UID:20260724-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260721T193752Z
+DTSTAMP:20260721T211500Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260724
 DTEND:20260724
@@ -86,7 +87,7 @@ DESCRIPTION:Sunny, with a high near 83.\n\nOvernight: Mostly clear, with a
 END:VEVENT
 BEGIN:VEVENT
 UID:20260725-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260721T193752Z
+DTSTAMP:20260721T211500Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260725
 DTEND:20260725
@@ -101,7 +102,7 @@ DESCRIPTION:Sunny, with a high near 82.\n\nOvernight: Partly cloudy, with a
 END:VEVENT
 BEGIN:VEVENT
 UID:20260726-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260721T193752Z
+DTSTAMP:20260721T211500Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260726
 DTEND:20260726
@@ -117,7 +118,7 @@ DESCRIPTION:Mostly sunny, with a high near 84.\n\nOvernight: A chance of ra
 END:VEVENT
 BEGIN:VEVENT
 UID:20260727-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260721T193752Z
+DTSTAMP:20260721T211500Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260727
 DTEND:20260727
