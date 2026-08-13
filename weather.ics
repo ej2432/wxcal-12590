@@ -13,24 +13,22 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20260813-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260813T110249Z
+DTSTAMP:20260813T132137Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260813
 DTEND:20260813
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:84ºF Chance Rain Showers; Mostly Sunny | 61ºF Partly Cloudy
-DESCRIPTION:A slight chance of rain showers before 8am. Mostly sunny, with 
- a high near 84. Northwest wind 2 to 7 mph. Chance of precipitation is 20%.
-  New rainfall amounts between a quarter and half of an inch possible.\n\nO
- vernight: Partly cloudy, with a low around 61. West wind 0 to 6 mph.\n\nSu
- nrise: 6:02:15 AM\nSunset: 7:57:50 PM\n\nForecast Detail: https://forecast
- .weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+SUMMARY:84ºF Mostly Sunny | 61ºF Partly Cloudy
+DESCRIPTION:Mostly sunny, with a high near 84. Northwest wind 2 to 7 mph.\n
+ \nOvernight: Partly cloudy, with a low around 61. West wind 0 to 6 mph.\n\
+ nSunrise: 6:02:15 AM\nSunset: 7:57:50 PM\n\nForecast Detail: https://forec
+ ast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260814-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260813T110249Z
+DTSTAMP:20260813T132137Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260814
 DTEND:20260814
@@ -45,7 +43,7 @@ DESCRIPTION:Sunny, with a high near 84. North wind 0 to 5 mph.\n\nOvernight
 END:VEVENT
 BEGIN:VEVENT
 UID:20260815-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260813T110249Z
+DTSTAMP:20260813T132137Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260815
 DTEND:20260815
@@ -60,7 +58,7 @@ DESCRIPTION:Sunny, with a high near 81. North wind around 5 mph.\n\nOvernig
 END:VEVENT
 BEGIN:VEVENT
 UID:20260816-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260813T110249Z
+DTSTAMP:20260813T132137Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260816
 DTEND:20260816
@@ -77,7 +75,7 @@ DESCRIPTION:A chance of rain showers between 8am and 2pm, then a chance of
 END:VEVENT
 BEGIN:VEVENT
 UID:20260817-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260813T110249Z
+DTSTAMP:20260813T132137Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260817
 DTEND:20260817
@@ -95,7 +93,7 @@ DESCRIPTION:A chance of rain showers before 2pm, then a slight chance of sh
 END:VEVENT
 BEGIN:VEVENT
 UID:20260818-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260813T110249Z
+DTSTAMP:20260813T132137Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260818
 DTEND:20260818
@@ -110,7 +108,7 @@ DESCRIPTION:Sunny, with a high near 83.\n\nOvernight: Mostly clear, with a
 END:VEVENT
 BEGIN:VEVENT
 UID:20260819-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260813T110249Z
+DTSTAMP:20260813T132137Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260819
 DTEND:20260819
