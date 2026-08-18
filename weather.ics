@@ -13,7 +13,7 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20260818-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260818T084135Z
+DTSTAMP:20260818T103243Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260818
 DTEND:20260818
@@ -31,7 +31,7 @@ DESCRIPTION:Patchy fog before 8am, then a slight chance of rain showers bet
 END:VEVENT
 BEGIN:VEVENT
 UID:20260819-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260818T084135Z
+DTSTAMP:20260818T103243Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260819
 DTEND:20260819
@@ -47,7 +47,7 @@ DESCRIPTION:Patchy fog before 9am. Mostly sunny, with a high near 87. West
 END:VEVENT
 BEGIN:VEVENT
 UID:20260820-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260818T084135Z
+DTSTAMP:20260818T103243Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260820
 DTEND:20260820
@@ -57,17 +57,18 @@ URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
 SUMMARY:81ºF Chance Rain Showers | 59ºF Chance Showers And Thunderstorms;
   Chance Showers And Thunderstorms
 DESCRIPTION:A chance of rain showers between 8am and 2pm, then a chance of 
- showers and thunderstorms. Partly sunny, with a high near 81. Chance of pr
- ecipitation is 40%. New rainfall amounts less than a tenth of an inch poss
- ible.\n\nOvernight: A chance of showers and thunderstorms before 8pm, then
-  a slight chance of showers and thunderstorms between 8pm and 2am. Mostly 
- cloudy, with a low around 59. Chance of precipitation is 40%.\n\nSunrise: 
- 6:09:25 AM\nSunset: 7:47:39 PM\n\nForecast Detail: https://forecast.weathe
- r.gov/MapClick.php?textField1=41.60&textField2=-73.89
+ showers and thunderstorms. Partly sunny, with a high near 81. Northwest wi
+ nd around 2 mph. Chance of precipitation is 40%. New rainfall amounts less
+  than a tenth of an inch possible.\n\nOvernight: A chance of showers and t
+ hunderstorms before 8pm, then a slight chance of showers and thunderstorms
+  between 8pm and 2am. Mostly cloudy, with a low around 59. Chance of preci
+ pitation is 40%. New rainfall amounts less than a tenth of an inch possibl
+ e.\n\nSunrise: 6:09:25 AM\nSunset: 7:47:39 PM\n\nForecast Detail: https://
+ forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260821-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260818T084135Z
+DTSTAMP:20260818T103243Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260821
 DTEND:20260821
@@ -82,7 +83,7 @@ DESCRIPTION:Mostly sunny, with a high near 83.\n\nOvernight: A slight chanc
 END:VEVENT
 BEGIN:VEVENT
 UID:20260822-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260818T084135Z
+DTSTAMP:20260818T103243Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260822
 DTEND:20260822
@@ -98,7 +99,7 @@ DESCRIPTION:A chance of rain showers. Partly sunny, with a high near 80. Ch
 END:VEVENT
 BEGIN:VEVENT
 UID:20260823-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260818T084135Z
+DTSTAMP:20260818T103243Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260823
 DTEND:20260823
@@ -116,17 +117,19 @@ DESCRIPTION:A chance of rain showers before 2pm, then showers and thunderst
 END:VEVENT
 BEGIN:VEVENT
 UID:20260824-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260818T084135Z
+DTSTAMP:20260818T103243Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260824
 DTEND:20260824
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:80ºF Mostly Sunny; Chance Showers And Thunderstorms
+SUMMARY:80ºF Mostly Sunny; Chance Showers And Thunderstorms | 58ºF Chance
+  Showers And Thunderstorms; Mostly Clear
 DESCRIPTION:A slight chance of showers and thunderstorms after 2pm. Mostly 
- sunny, with a high near 80.\n\nSunrise: 6:13:31 AM\nSunset: 7:41:30 PM\n\n
- Forecast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.6
- 0&textField2=-73.89
+ sunny, with a high near 80.\n\nOvernight: A slight chance of showers and t
+ hunderstorms before 8pm. Mostly clear, with a low around 58.\n\nSunrise: 6
+ :13:31 AM\nSunset: 7:41:30 PM\n\nForecast Detail: https://forecast.weather
+ .gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 END:VCALENDAR
