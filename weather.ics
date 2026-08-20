@@ -13,7 +13,7 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20260820-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260820T103447Z
+DTSTAMP:20260820T125725Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260820
 DTEND:20260820
@@ -22,20 +22,20 @@ URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
 SUMMARY:79ºF Patchy Fog; Rain Showers Likely | 56ºF Rain Showers; Patchy 
  Fog
-DESCRIPTION:Patchy fog between 8am and 9am, then rain showers likely. Partl
- y sunny. High near 79, with temperatures falling to around 72 in the after
- noon. North wind 0 to 6 mph. Chance of precipitation is 70%. New rainfall 
- amounts between a quarter and half of an inch possible.\n\nOvernight: Rain
-  showers before 8pm, then a chance of rain showers and patchy fog between 
- 8pm and 11pm, then patchy fog and a slight chance of rain showers. Mostly 
- cloudy, with a low around 56. North wind around 5 mph. Chance of precipita
- tion is 80%. New rainfall amounts between a quarter and half of an inch po
- ssible.\n\nSunrise: 6:09:25 AM\nSunset: 7:47:39 PM\n\nForecast Detail: htt
- ps://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+DESCRIPTION:Patchy fog before 9am, then rain showers likely. Mostly cloudy.
+  High near 79, with temperatures falling to around 72 in the afternoon. No
+ rthwest wind 1 to 6 mph. Chance of precipitation is 70%. New rainfall amou
+ nts between a quarter and half of an inch possible.\n\nOvernight: Rain sho
+ wers before 8pm, then a chance of rain showers and patchy fog between 8pm 
+ and 11pm, then patchy fog and a slight chance of rain showers. Mostly clou
+ dy, with a low around 56. North wind around 5 mph. Chance of precipitation
+  is 80%. New rainfall amounts between a quarter and half of an inch possib
+ le.\n\nSunrise: 6:09:25 AM\nSunset: 7:47:39 PM\n\nForecast Detail: https:/
+ /forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260821-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260820T103447Z
+DTSTAMP:20260820T125725Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260821
 DTEND:20260821
@@ -52,7 +52,7 @@ DESCRIPTION:Patchy fog before 10am. Partly sunny, with a high near 79. Nort
 END:VEVENT
 BEGIN:VEVENT
 UID:20260822-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260820T103447Z
+DTSTAMP:20260820T125725Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260822
 DTEND:20260822
@@ -71,7 +71,7 @@ DESCRIPTION:Rain showers likely before 2pm, then showers and thunderstorms
 END:VEVENT
 BEGIN:VEVENT
 UID:20260823-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260820T103447Z
+DTSTAMP:20260820T125725Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260823
 DTEND:20260823
@@ -89,7 +89,7 @@ DESCRIPTION:Showers and thunderstorms likely after 2pm. Mostly cloudy, with
 END:VEVENT
 BEGIN:VEVENT
 UID:20260824-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260820T103447Z
+DTSTAMP:20260820T125725Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260824
 DTEND:20260824
@@ -104,7 +104,7 @@ DESCRIPTION:Sunny, with a high near 80.\n\nOvernight: Mostly clear, with a
 END:VEVENT
 BEGIN:VEVENT
 UID:20260825-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260820T103447Z
+DTSTAMP:20260820T125725Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260825
 DTEND:20260825
@@ -119,7 +119,7 @@ DESCRIPTION:Sunny, with a high near 80.\n\nOvernight: Mostly clear, with a
 END:VEVENT
 BEGIN:VEVENT
 UID:20260826-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260820T103447Z
+DTSTAMP:20260820T125725Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260826
 DTEND:20260826
