@@ -13,7 +13,7 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20260826-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260826T085001Z
+DTSTAMP:20260826T103847Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260826
 DTEND:20260826
@@ -29,7 +29,7 @@ DESCRIPTION:Patchy fog before 9am. Sunny, with a high near 82. Northwest wi
 END:VEVENT
 BEGIN:VEVENT
 UID:20260827-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260826T085001Z
+DTSTAMP:20260826T103847Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260827
 DTEND:20260827
@@ -51,7 +51,7 @@ DESCRIPTION:A chance of showers and thunderstorms between 10am and 2pm, the
 END:VEVENT
 BEGIN:VEVENT
 UID:20260828-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260826T085001Z
+DTSTAMP:20260826T103847Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260828
 DTEND:20260828
@@ -61,16 +61,17 @@ URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
 SUMMARY:82ºF Chance Showers And Thunderstorms | 58ºF Chance Showers And T
  hunderstorms; Partly Cloudy
 DESCRIPTION:A slight chance of rain showers between 8am and 2pm, then a cha
- nce of showers and thunderstorms. Partly sunny, with a high near 82. Chanc
- e of precipitation is 30%. New rainfall amounts less than a tenth of an in
- ch possible.\n\nOvernight: A chance of showers and thunderstorms before 8p
- m. Partly cloudy, with a low around 58. Chance of precipitation is 30%.\n\
- nSunrise: 6:17:36 AM\nSunset: 7:35:08 PM\n\nForecast Detail: https://forec
- ast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+ nce of showers and thunderstorms. Partly sunny, with a high near 82. West 
+ wind around 3 mph. Chance of precipitation is 30%. New rainfall amounts le
+ ss than a tenth of an inch possible.\n\nOvernight: A chance of showers and
+  thunderstorms before 8pm. Partly cloudy, with a low around 58. Chance of 
+ precipitation is 30%. New rainfall amounts less than a tenth of an inch po
+ ssible.\n\nSunrise: 6:17:36 AM\nSunset: 7:35:08 PM\n\nForecast Detail: htt
+ ps://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260829-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260826T085001Z
+DTSTAMP:20260826T103847Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260829
 DTEND:20260829
@@ -85,7 +86,7 @@ DESCRIPTION:Sunny, with a high near 80.\n\nOvernight: Mostly clear, with a
 END:VEVENT
 BEGIN:VEVENT
 UID:20260830-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260826T085001Z
+DTSTAMP:20260826T103847Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260830
 DTEND:20260830
@@ -100,7 +101,7 @@ DESCRIPTION:Mostly sunny, with a high near 84.\n\nOvernight: Partly cloudy,
 END:VEVENT
 BEGIN:VEVENT
 UID:20260831-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260826T085001Z
+DTSTAMP:20260826T103847Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260831
 DTEND:20260831
@@ -115,17 +116,20 @@ DESCRIPTION:Mostly sunny, with a high near 87.\n\nOvernight: A slight chanc
 END:VEVENT
 BEGIN:VEVENT
 UID:20260901-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260826T085001Z
+DTSTAMP:20260826T103847Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260901
 DTEND:20260901
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:86ºF Chance Showers And Thunderstorms
+SUMMARY:86ºF Chance Showers And Thunderstorms | 66ºF Chance Showers And T
+ hunderstorms
 DESCRIPTION:A slight chance of rain showers before 2pm, then a chance of sh
- owers and thunderstorms. Mostly sunny, with a high near 86.\n\nSunrise: 6:
- 21:41 AM\nSunset: 7:28:36 PM\n\nForecast Detail: https://forecast.weather.
- gov/MapClick.php?textField1=41.60&textField2=-73.89
+ owers and thunderstorms. Mostly sunny, with a high near 86. Chance of prec
+ ipitation is 30%.\n\nOvernight: A chance of showers and thunderstorms. Mos
+ tly cloudy, with a low around 66.\n\nSunrise: 6:21:41 AM\nSunset: 7:28:36 
+ PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.php?textField
+ 1=41.60&textField2=-73.89
 END:VEVENT
 END:VCALENDAR
