@@ -12,23 +12,8 @@ METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
-UID:20260908-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260908T192031Z
-LAST-MODIFIED:00010101T000000Z
-DTSTART:20260908
-DTEND:20260908
-LOCATION:Wappingers Falls, NY
-URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
- 73.89
-SUMMARY:81ºF Mostly Sunny | 60ºF Mostly Cloudy
-DESCRIPTION:Mostly sunny, with a high near 81. Northwest wind around 2 mph.
- \n\nOvernight: Mostly cloudy, with a low around 60. South wind around 2 mp
- h.\n\nSunrise: 6:28:48 AM\nSunset: 7:16:49 PM\n\nForecast Detail: https://
- forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
-END:VEVENT
-BEGIN:VEVENT
 UID:20260909-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260908T192031Z
+DTSTAMP:20260909T040353Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260909
 DTEND:20260909
@@ -46,7 +31,7 @@ DESCRIPTION:Mostly sunny, with a high near 84. South wind 0 to 9 mph.\n\nOv
 END:VEVENT
 BEGIN:VEVENT
 UID:20260910-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260908T192031Z
+DTSTAMP:20260909T040353Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260910
 DTEND:20260910
@@ -59,14 +44,14 @@ DESCRIPTION:A chance of rain showers after 2pm. Partly sunny, with a high n
  ear 84. West wind around 10 mph, with gusts as high as 25 mph. Chance of p
  recipitation is 30%. New rainfall amounts between a tenth and quarter of a
  n inch possible.\n\nOvernight: A chance of rain showers before 2am. Mostly
-  cloudy, with a low around 60. Chance of precipitation is 30%. New rainfal
- l amounts less than a tenth of an inch possible.\n\nSunrise: 6:30:49 AM\nS
- unset: 7:13:24 PM\n\nForecast Detail: https://forecast.weather.gov/MapClic
- k.php?textField1=41.60&textField2=-73.89
+  cloudy, with a low around 60. Northwest wind 2 to 7 mph. Chance of precip
+ itation is 30%. New rainfall amounts less than a tenth of an inch possible
+ .\n\nSunrise: 6:30:49 AM\nSunset: 7:13:24 PM\n\nForecast Detail: https://f
+ orecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260911-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260908T192031Z
+DTSTAMP:20260909T040353Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260911
 DTEND:20260911
@@ -81,7 +66,7 @@ DESCRIPTION:Sunny, with a high near 77.\n\nOvernight: Mostly clear, with a
 END:VEVENT
 BEGIN:VEVENT
 UID:20260912-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260908T192031Z
+DTSTAMP:20260909T040353Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260912
 DTEND:20260912
@@ -96,7 +81,7 @@ DESCRIPTION:Sunny, with a high near 79.\n\nOvernight: Partly cloudy, with a
 END:VEVENT
 BEGIN:VEVENT
 UID:20260913-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260908T192031Z
+DTSTAMP:20260909T040353Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260913
 DTEND:20260913
@@ -113,7 +98,7 @@ DESCRIPTION:A chance of rain showers after 8am. Partly sunny, with a high n
 END:VEVENT
 BEGIN:VEVENT
 UID:20260914-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260908T192031Z
+DTSTAMP:20260909T040353Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260914
 DTEND:20260914
@@ -125,5 +110,20 @@ DESCRIPTION:Mostly sunny, with a high near 79.\n\nOvernight: Partly cloudy,
   with a low around 59.\n\nSunrise: 6:34:54 AM\nSunset: 7:06:31 PM\n\nForec
  ast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&tex
  tField2=-73.89
+END:VEVENT
+BEGIN:VEVENT
+UID:20260915-wappingers-falls-ny{41.60,-73.89}@github.com
+DTSTAMP:20260909T040353Z
+LAST-MODIFIED:00010101T000000Z
+DTSTART:20260915
+DTEND:20260915
+LOCATION:Wappingers Falls, NY
+URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
+ 73.89
+SUMMARY:79ºF Mostly Sunny; Chance Rain Showers
+DESCRIPTION:A slight chance of rain showers after 2pm. Mostly sunny, with a
+  high near 79.\n\nSunrise: 6:35:55 AM\nSunset: 7:04:47 PM\n\nForecast Deta
+ il: https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=
+ -73.89
 END:VEVENT
 END:VCALENDAR
