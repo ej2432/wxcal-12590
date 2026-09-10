@@ -13,7 +13,7 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20260910-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260910T105833Z
+DTSTAMP:20260910T160901Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260910
 DTEND:20260910
@@ -21,15 +21,15 @@ LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
 SUMMARY:85ºF Mostly Sunny | 60ºF Partly Cloudy
-DESCRIPTION:Mostly sunny, with a high near 85. West wind 6 to 12 mph, with 
- gusts as high as 23 mph.\n\nOvernight: Partly cloudy, with a low around 60
- . Northwest wind 1 to 7 mph.\n\nSunrise: 6:30:49 AM\nSunset: 7:13:24 PM\n\
- nForecast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.
- 60&textField2=-73.89
+DESCRIPTION:Mostly sunny, with a high near 85. Northwest wind around 12 mph
+ , with gusts as high as 23 mph.\n\nOvernight: Partly cloudy, with a low ar
+ ound 60. Northwest wind 1 to 7 mph.\n\nSunrise: 6:30:49 AM\nSunset: 7:13:2
+ 4 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.php?textFie
+ ld1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260911-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260910T105833Z
+DTSTAMP:20260910T160901Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260911
 DTEND:20260911
@@ -44,7 +44,7 @@ DESCRIPTION:Sunny, with a high near 77. North wind 1 to 5 mph.\n\nOvernight
 END:VEVENT
 BEGIN:VEVENT
 UID:20260912-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260910T105833Z
+DTSTAMP:20260910T160901Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260912
 DTEND:20260912
@@ -63,7 +63,7 @@ DESCRIPTION:Patchy fog between 7am and 8am. Mostly sunny, with a high near
 END:VEVENT
 BEGIN:VEVENT
 UID:20260913-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260910T105833Z
+DTSTAMP:20260910T160901Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260913
 DTEND:20260913
@@ -79,7 +79,7 @@ DESCRIPTION:Showers and thunderstorms likely before 2pm. Partly sunny, with
 END:VEVENT
 BEGIN:VEVENT
 UID:20260914-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260910T105833Z
+DTSTAMP:20260910T160901Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260914
 DTEND:20260914
@@ -94,7 +94,7 @@ DESCRIPTION:Mostly sunny, with a high near 78.\n\nOvernight: Partly cloudy,
 END:VEVENT
 BEGIN:VEVENT
 UID:20260915-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260910T105833Z
+DTSTAMP:20260910T160901Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260915
 DTEND:20260915
@@ -109,7 +109,7 @@ DESCRIPTION:Sunny, with a high near 82.\n\nOvernight: Partly cloudy, with a
 END:VEVENT
 BEGIN:VEVENT
 UID:20260916-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260910T105833Z
+DTSTAMP:20260910T160901Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260916
 DTEND:20260916
