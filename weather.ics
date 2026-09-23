@@ -13,7 +13,7 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20260923-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260923T073509Z
+DTSTAMP:20260923T132955Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260923
 DTEND:20260923
@@ -21,14 +21,14 @@ LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
 SUMMARY:67ºF Mostly Sunny | 44ºF Mostly Clear
-DESCRIPTION:Mostly sunny, with a high near 67. Northeast wind 8 to 13 mph.\
+DESCRIPTION:Mostly sunny, with a high near 67. Northeast wind 9 to 13 mph.\
  n\nOvernight: Mostly clear, with a low around 44. Northeast wind 5 to 10 m
  ph.\n\nSunrise: 6:44:06 AM\nSunset: 6:50:55 PM\n\nForecast Detail: https:/
  /forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260924-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260923T073509Z
+DTSTAMP:20260923T132955Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260924
 DTEND:20260924
@@ -44,7 +44,7 @@ DESCRIPTION:Sunny, with a high near 68. Northeast wind around 10 mph.\n\nOv
 END:VEVENT
 BEGIN:VEVENT
 UID:20260925-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260923T073509Z
+DTSTAMP:20260923T132955Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260925
 DTEND:20260925
@@ -54,15 +54,17 @@ URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
 SUMMARY:68ºF Partly Sunny; Chance Rain Showers | 53ºF Chance Rain Shower
  s
 DESCRIPTION:A chance of rain showers after 2pm. Partly sunny, with a high n
- ear 68. Chance of precipitation is 30%. New rainfall amounts between a ten
- th and quarter of an inch possible.\n\nOvernight: A chance of rain showers
- . Mostly cloudy, with a low around 53. Chance of precipitation is 40%.\n\n
- Sunrise: 6:46:10 AM\nSunset: 6:47:28 PM\n\nForecast Detail: https://foreca
- st.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+ ear 68. North wind 12 to 15 mph, with gusts as high as 29 mph. Chance of p
+ recipitation is 30%. New rainfall amounts between a tenth and quarter of a
+ n inch possible.\n\nOvernight: A chance of rain showers. Mostly cloudy, wi
+ th a low around 53. Chance of precipitation is 40%. New rainfall amounts b
+ etween a tenth and quarter of an inch possible.\n\nSunrise: 6:46:10 AM\nSu
+ nset: 6:47:28 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick
+ .php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20260926-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260923T073509Z
+DTSTAMP:20260923T132955Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260926
 DTEND:20260926
@@ -78,7 +80,7 @@ DESCRIPTION:A chance of rain showers. Mostly cloudy, with a high near 66. C
 END:VEVENT
 BEGIN:VEVENT
 UID:20260927-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260923T073509Z
+DTSTAMP:20260923T132955Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260927
 DTEND:20260927
@@ -94,7 +96,7 @@ DESCRIPTION:A chance of rain showers. Mostly cloudy, with a high near 66. C
 END:VEVENT
 BEGIN:VEVENT
 UID:20260928-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260923T073509Z
+DTSTAMP:20260923T132955Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260928
 DTEND:20260928
@@ -109,16 +111,17 @@ DESCRIPTION:A slight chance of rain showers before 8am. Mostly sunny, with
 END:VEVENT
 BEGIN:VEVENT
 UID:20260929-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20260923T073509Z
+DTSTAMP:20260923T132955Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20260929
 DTEND:20260929
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:74ºF Sunny
-DESCRIPTION:Sunny, with a high near 74.\n\nSunrise: 6:50:21 AM\nSunset: 6:4
- 0:35 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.php?text
- Field1=41.60&textField2=-73.89
+SUMMARY:74ºF Sunny | 53ºF Mostly Clear
+DESCRIPTION:Sunny, with a high near 74.\n\nOvernight: Mostly clear, with a 
+ low around 53.\n\nSunrise: 6:50:21 AM\nSunset: 6:40:35 PM\n\nForecast Deta
+ il: https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=
+ -73.89
 END:VEVENT
 END:VCALENDAR
