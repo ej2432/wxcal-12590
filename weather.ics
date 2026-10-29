@@ -13,22 +13,22 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20261029-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20261029T192802Z
+DTSTAMP:20261029T235133Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20261029
 DTEND:20261029
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:69ºF Sunny | 51ºF Partly Cloudy
-DESCRIPTION:Sunny, with a high near 69. Southwest wind around 9 mph.\n\nOve
- rnight: Partly cloudy, with a low around 51. Southwest wind 3 to 7 mph.\n\
- nSunrise: 7:23:54 AM\nSunset: 5:53:57 PM\n\nForecast Detail: https://forec
- ast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+SUMMARY:Tonight: 51ºF Partly Cloudy
+DESCRIPTION:Tonight: Partly cloudy, with a low around 51. Southwest wind 3 
+ to 7 mph.\n\nSunrise: 7:23:54 AM\nSunset: 5:53:57 PM\n\nForecast Detail: h
+ ttps://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.8
+ 9
 END:VEVENT
 BEGIN:VEVENT
 UID:20261030-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20261029T192802Z
+DTSTAMP:20261029T235133Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20261030
 DTEND:20261030
@@ -44,7 +44,7 @@ DESCRIPTION:Sunny. High near 67, with temperatures falling to around 61 in
 END:VEVENT
 BEGIN:VEVENT
 UID:20261031-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20261029T192802Z
+DTSTAMP:20261029T235133Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20261031
 DTEND:20261031
@@ -53,13 +53,13 @@ URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
 SUMMARY:59ºF Sunny | 32ºF Partly Cloudy
 DESCRIPTION:Sunny, with a high near 59. North wind 2 to 7 mph.\n\nOvernight
- : Partly cloudy, with a low around 32.\n\nSunrise: 7:26:18 AM\nSunset: 5:5
- 1:21 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.php?text
- Field1=41.60&textField2=-73.89
+ : Partly cloudy, with a low around 32. Northeast wind around 1 mph.\n\nSun
+ rise: 7:26:18 AM\nSunset: 5:51:21 PM\n\nForecast Detail: https://forecast.
+ weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20261101-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20261029T192802Z
+DTSTAMP:20261029T235133Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20261101
 DTEND:20261101
@@ -74,7 +74,7 @@ DESCRIPTION:Mostly sunny, with a high near 62.\n\nOvernight: Partly cloudy,
 END:VEVENT
 BEGIN:VEVENT
 UID:20261102-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20261029T192802Z
+DTSTAMP:20261029T235133Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20261102
 DTEND:20261102
@@ -89,7 +89,7 @@ DESCRIPTION:Mostly sunny, with a high near 67.\n\nOvernight: Partly cloudy,
 END:VEVENT
 BEGIN:VEVENT
 UID:20261103-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20261029T192802Z
+DTSTAMP:20261029T235133Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20261103
 DTEND:20261103
@@ -104,7 +104,7 @@ DESCRIPTION:Mostly sunny, with a high near 68.\n\nOvernight: Mostly cloudy,
 END:VEVENT
 BEGIN:VEVENT
 UID:20261104-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20261029T192802Z
+DTSTAMP:20261029T235133Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20261104
 DTEND:20261104
@@ -116,5 +116,19 @@ DESCRIPTION:Partly sunny, with a high near 66.\n\nOvernight: A slight chanc
  e of rain showers after 1am. Mostly cloudy, with a low around 49.\n\nSunri
  se: 6:31:08 AM\nSunset: 4:46:29 PM\n\nForecast Detail: https://forecast.we
  ather.gov/MapClick.php?textField1=41.60&textField2=-73.89
+END:VEVENT
+BEGIN:VEVENT
+UID:20261105-wappingers-falls-ny{41.60,-73.89}@github.com
+DTSTAMP:20261029T235133Z
+LAST-MODIFIED:00010101T000000Z
+DTSTART:20261105
+DTEND:20261105
+LOCATION:Wappingers Falls, NY
+URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
+ 73.89
+SUMMARY:68ºF Chance Rain Showers
+DESCRIPTION:A chance of rain showers. Partly sunny, with a high near 68.\n\
+ nSunrise: 6:32:21 AM\nSunset: 4:45:20 PM\n\nForecast Detail: https://forec
+ ast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 END:VCALENDAR
