@@ -13,23 +13,22 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20261118-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20261118T214441Z
+DTSTAMP:20261119T030059Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20261118
 DTEND:20261118
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:59ºF Sunny | 29ºF Mostly Clear; Patchy Fog
-DESCRIPTION:Sunny, with a high near 59. West wind around 3 mph.\n\nOvernigh
- t: Patchy fog after 1am. Mostly clear, with a low around 29. West wind aro
- und 2 mph.\n\nSunrise: 6:48:08 AM\nSunset: 4:32:55 PM\n\nForecast Detail: 
- https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73.
- 89
+SUMMARY:Tonight: 29ºF Mostly Clear; Patchy Fog
+DESCRIPTION:Tonight: Patchy fog after 1am. Mostly clear, with a low around 
+ 29. West wind around 1 mph.\n\nSunrise: 6:48:08 AM\nSunset: 4:32:55 PM\n\n
+ Forecast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.6
+ 0&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20261119-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20261118T214441Z
+DTSTAMP:20261119T030059Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20261119
 DTEND:20261119
@@ -45,7 +44,7 @@ DESCRIPTION:Patchy fog before 9am. Sunny. High near 60, with temperatures f
 END:VEVENT
 BEGIN:VEVENT
 UID:20261120-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20261118T214441Z
+DTSTAMP:20261119T030059Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20261120
 DTEND:20261120
@@ -54,13 +53,14 @@ URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
 SUMMARY:63ºF Sunny | 34ºF Mostly Clear; Patchy Fog
 DESCRIPTION:Sunny, with a high near 63. West wind 1 to 6 mph.\n\nOvernight:
-  Patchy fog after midnight. Mostly clear, with a low around 34.\n\nSunrise
- : 6:50:30 AM\nSunset: 4:31:29 PM\n\nForecast Detail: https://forecast.weat
- her.gov/MapClick.php?textField1=41.60&textField2=-73.89
+  Patchy fog after midnight. Mostly clear, with a low around 34. North wind
+  around 2 mph.\n\nSunrise: 6:50:30 AM\nSunset: 4:31:29 PM\n\nForecast Deta
+ il: https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=
+ -73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20261121-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20261118T214441Z
+DTSTAMP:20261119T030059Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20261121
 DTEND:20261121
@@ -75,7 +75,7 @@ DESCRIPTION:Patchy fog before 8am. Sunny, with a high near 60.\n\nOvernight
 END:VEVENT
 BEGIN:VEVENT
 UID:20261122-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20261118T214441Z
+DTSTAMP:20261119T030059Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20261122
 DTEND:20261122
@@ -91,7 +91,7 @@ DESCRIPTION:A chance of rain after 1pm. Partly sunny, with a high near 59.
 END:VEVENT
 BEGIN:VEVENT
 UID:20261123-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20261118T214441Z
+DTSTAMP:20261119T030059Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20261123
 DTEND:20261123
@@ -107,7 +107,7 @@ DESCRIPTION:A chance of rain. Mostly cloudy, with a high near 59. Chance of
 END:VEVENT
 BEGIN:VEVENT
 UID:20261124-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20261118T214441Z
+DTSTAMP:20261119T030059Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20261124
 DTEND:20261124
@@ -119,5 +119,19 @@ DESCRIPTION:Mostly sunny, with a high near 46.\n\nOvernight: Mostly clear,
  with a low around 25.\n\nSunrise: 6:55:10 AM\nSunset: 4:29:03 PM\n\nForeca
  st Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&text
  Field2=-73.89
+END:VEVENT
+BEGIN:VEVENT
+UID:20261125-wappingers-falls-ny{41.60,-73.89}@github.com
+DTSTAMP:20261119T030059Z
+LAST-MODIFIED:00010101T000000Z
+DTSTART:20261125
+DTEND:20261125
+LOCATION:Wappingers Falls, NY
+URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
+ 73.89
+SUMMARY:43ºF Mostly Sunny
+DESCRIPTION:Mostly sunny, with a high near 43.\n\nSunrise: 6:56:18 AM\nSuns
+ et: 4:28:31 PM\n\nForecast Detail: https://forecast.weather.gov/MapClick.p
+ hp?textField1=41.60&textField2=-73.89
 END:VEVENT
 END:VCALENDAR
