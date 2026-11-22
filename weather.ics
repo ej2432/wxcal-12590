@@ -13,23 +13,22 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:20261121-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20261121T213543Z
+DTSTAMP:20261122T015852Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20261121
 DTEND:20261121
 LOCATION:Wappingers Falls, NY
 URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
  73.89
-SUMMARY:63ºF Mostly Sunny | 39ºF Mostly Cloudy
-DESCRIPTION:Mostly sunny. High near 63, with temperatures falling to around
-  57 in the afternoon. South wind around 3 mph.\n\nOvernight: Mostly cloudy
- , with a low around 39. Southeast wind 0 to 3 mph.\n\nSunrise: 6:51:41 AM\
- nSunset: 4:30:49 PM\n\nForecast Detail: https://forecast.weather.gov/MapCl
- ick.php?textField1=41.60&textField2=-73.89
+SUMMARY:Tonight: 39ºF Mostly Cloudy
+DESCRIPTION:Tonight: Mostly cloudy, with a low around 39. Southeast wind ar
+ ound 1 mph.\n\nSunrise: 6:51:41 AM\nSunset: 4:30:49 PM\n\nForecast Detail:
+  https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-73
+ .89
 END:VEVENT
 BEGIN:VEVENT
 UID:20261122-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20261121T213543Z
+DTSTAMP:20261122T015852Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20261122
 DTEND:20261122
@@ -47,7 +46,7 @@ DESCRIPTION:Rain likely after 1pm. Cloudy, with a high near 60. East wind 0
 END:VEVENT
 BEGIN:VEVENT
 UID:20261123-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20261121T213543Z
+DTSTAMP:20261122T015852Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20261123
 DTEND:20261123
@@ -58,13 +57,13 @@ SUMMARY:63ºF Chance Light Rain; Mostly Sunny | 31ºF Mostly Clear
 DESCRIPTION:A slight chance of rain before 7am. Mostly sunny, with a high n
  ear 63. Northwest wind 2 to 10 mph. Chance of precipitation is 20%. New ra
  infall amounts less than a tenth of an inch possible.\n\nOvernight: Mostly
-  clear, with a low around 31.\n\nSunrise: 6:54:01 AM\nSunset: 4:29:36 PM\n
- \nForecast Detail: https://forecast.weather.gov/MapClick.php?textField1=41
- .60&textField2=-73.89
+  clear, with a low around 31. Northwest wind 2 to 7 mph.\n\nSunrise: 6:54:
+ 01 AM\nSunset: 4:29:36 PM\n\nForecast Detail: https://forecast.weather.gov
+ /MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 BEGIN:VEVENT
 UID:20261124-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20261121T213543Z
+DTSTAMP:20261122T015852Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20261124
 DTEND:20261124
@@ -78,7 +77,7 @@ DESCRIPTION:Sunny, with a high near 46.\n\nOvernight: Clear, with a low aro
 END:VEVENT
 BEGIN:VEVENT
 UID:20261125-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20261121T213543Z
+DTSTAMP:20261122T015852Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20261125
 DTEND:20261125
@@ -93,7 +92,7 @@ DESCRIPTION:Sunny, with a high near 44.\n\nOvernight: A slight chance of ra
 END:VEVENT
 BEGIN:VEVENT
 UID:20261126-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20261121T213543Z
+DTSTAMP:20261122T015852Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20261126
 DTEND:20261126
@@ -109,7 +108,7 @@ DESCRIPTION:Rain and snow likely. Mostly cloudy, with a high near 44. Chanc
 END:VEVENT
 BEGIN:VEVENT
 UID:20261127-wappingers-falls-ny{41.60,-73.89}@github.com
-DTSTAMP:20261121T213543Z
+DTSTAMP:20261122T015852Z
 LAST-MODIFIED:00010101T000000Z
 DTSTART:20261127
 DTEND:20261127
@@ -122,5 +121,19 @@ DESCRIPTION:A chance of rain. Mostly cloudy, with a high near 49. Chance of
  y, with a low around 31.\n\nSunrise: 6:58:33 AM\nSunset: 4:27:36 PM\n\nFor
  ecast Detail: https://forecast.weather.gov/MapClick.php?textField1=41.60&t
  extField2=-73.89
+END:VEVENT
+BEGIN:VEVENT
+UID:20261128-wappingers-falls-ny{41.60,-73.89}@github.com
+DTSTAMP:20261122T015852Z
+LAST-MODIFIED:00010101T000000Z
+DTSTART:20261128
+DTEND:20261128
+LOCATION:Wappingers Falls, NY
+URL:https://forecast.weather.gov/MapClick.php?textField1=41.60&textField2=-
+ 73.89
+SUMMARY:50ºF Chance Light Rain
+DESCRIPTION:A slight chance of rain. Partly sunny, with a high near 50.\n\n
+ Sunrise: 6:59:39 AM\nSunset: 4:27:12 PM\n\nForecast Detail: https://foreca
+ st.weather.gov/MapClick.php?textField1=41.60&textField2=-73.89
 END:VEVENT
 END:VCALENDAR
